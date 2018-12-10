@@ -1,0 +1,8 @@
+TGCAT	nbc04
+AAGGA	jun01
+GCATG	jun02
+AACCA	jun03
+CAACC	jun04
+TCGAT	hmr01
+CGATC	hmr02
+GGTTG	hmr03

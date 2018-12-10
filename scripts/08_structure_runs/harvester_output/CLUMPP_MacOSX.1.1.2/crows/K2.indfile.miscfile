@@ -1,0 +1,56 @@
+
+Using the parameter settings in the file: 
+''paramfile''
+
+Parameter settings
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = K2.indfile
+POPFILE = 
+OUTFILE = K2.indfile.outfile
+MISCFILE = K2.indfile.miscfile
+K = 2
+C = 62
+R = 5
+M = 1
+W = 0
+S = 1
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 
+REPEATS = 
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = arabid.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDER = 
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 16 configurations of runs and clusters will be tested.
+
+Results
+------------------------------
+The highest value of H is: 0.99832363285304
+
+The list of permutations of the clusters that produces that
+H value is (runs are listed sequentially on separate rows)
+
+1 2 
+1 2 
+2 1 
+2 1 
+1 2 
+
+The pairwise G values for each pair of runs where the clusters
+of each run are permuted according to the list of permutations above
+
+1.0000 0.9987 0.9987 0.9984 0.9982 
+0.9987 1.0000 0.9987 0.9986 0.9977 
+0.9987 0.9987 1.0000 0.9986 0.9978 
+0.9984 0.9986 0.9986 1.0000 0.9978 
+0.9982 0.9977 0.9978 0.9978 1.0000 

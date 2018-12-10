@@ -1,0 +1,47 @@
+# This document produced by structureHarvester core version vA.2 July 2014
+# http://www.structureharvester.com/
+# https://github.com/dentearl/structureHarvester/
+# http://taylor0.biology.ucla.edu/structureHarvester
+# http://users.soe.ucsc.edu/~dearl/software/structureHarvester
+# Written by Dent Earl, dearl (a) soe ucsc edu.
+# CITATION:
+# Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+# STRUCTURE HARVESTER: a website and program for visualizing
+# STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+# Core version: vA.2 July 2014
+# File generated at 2018-Jan-14 10:19:10 PST
+#
+
+##########
+# K	Reps	mean est. LnP(Data)	stdev est. LnP(Data)
+1	5	-174866.220000	11.031183
+2	5	-163293.360000	8.853417
+3	5	-161073.820000	64.375360
+
+##########
+# File name	Run #	K	Est. Ln prob. of data	Mean value of Ln likelihood	Variance of Ln likelihood
+K1.04.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		1	-174865.5	-173029.6	3671.7
+K1.05.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		1	-174882.8	-173029.6	3706.3
+K1.03.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		1	-174870.1	-173029.2	3681.8
+K1.01.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		1	-174857.2	-173030.8	3652.9
+K1.02.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		1	-174855.5	-173029.8	3651.3
+K2.05.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		2	-163302.9	-160057.3	6491.2
+K2.04.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		2	-163293.6	-160058.5	6470.2
+K2.02.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		2	-163298.9	-160057.3	6483.3
+K2.01.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		2	-163279.6	-160057.0	6445.2
+K2.03.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		2	-163291.8	-160057.3	6469.0
+K3.03.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		3	-161051.9	-155605.0	10893.8
+K3.05.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		3	-161050.5	-155600.4	10900.3
+K3.04.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		3	-161141.8	-155602.8	11077.8
+K3.02.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		3	-161135.5	-155605.0	11061.0
+K3.01.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f		3	-160989.4	-155606.0	10766.7
+
+Software written by Dent Earl while at EEB Dept, UCLA, BME Dept UCSC
+dearl (a) soe ucsc edu
+CITATION:
+Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+STRUCTURE HARVESTER: a website and program for visualizing
+STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+Core version: vA.2 July 2014

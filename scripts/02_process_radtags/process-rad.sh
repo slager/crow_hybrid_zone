@@ -1,0 +1,10 @@
+#!/bin/bash
+
+process_radtags -p ~/Documents/dls/crowRAD/DLS001A/ -i gzfastq -o ~/Documents/dls/crowRAD/stacks/DLS001A/ -b ~/Documents/dls/crowRAD/barcodes_stacks/barcodesDLS001A.txt -e sbfI --inline_null -r -c -q -D ~/Documents/dls/crowRAD/stacks/discarded_reads/DLS001A
+process_radtags -p ~/Documents/dls/crowRAD/DLS001B/ -i gzfastq -o ~/Documents/dls/crowRAD/stacks/DLS001B/ -b ~/Documents/dls/crowRAD/barcodes_stacks/barcodesDLS001B.txt -e sbfI --inline_null -r -c -q -D ~/Documents/dls/crowRAD/stacks/discarded_reads/DLS001B
+process_radtags -p ~/Documents/dls/crowRAD/DLS001C/ -i gzfastq -o ~/Documents/dls/crowRAD/stacks/DLS001C/ -b ~/Documents/dls/crowRAD/barcodes_stacks/barcodesDLS001C.txt -e sbfI --inline_null -r -c -q -D ~/Documents/dls/crowRAD/stacks/discarded_reads/DLS001C
+process_radtags -p ~/Documents/dls/crowRAD/DLS001D/ -i gzfastq -o ~/Documents/dls/crowRAD/stacks/DLS001D/ -b ~/Documents/dls/crowRAD/barcodes_stacks/barcodesDLS001D.txt -e sbfI --inline_null -r -c -q -D ~/Documents/dls/crowRAD/stacks/discarded_reads/DLS001D
+process_radtags -p ~/Documents/dls/crowRAD/DLS001E/ -i gzfastq -o ~/Documents/dls/crowRAD/stacks/DLS001E/ -b ~/Documents/dls/crowRAD/barcodes_stacks/barcodesDLS001E.txt -e sbfI --inline_null -r -c -q -D ~/Documents/dls/crowRAD/stacks/discarded_reads/DLS001E
+process_radtags -p ~/Documents/dls/crowRAD/DLS001F/ -i gzfastq -o ~/Documents/dls/crowRAD/stacks/DLS001F/ -b ~/Documents/dls/crowRAD/barcodes_stacks/barcodesDLS001F.txt -e sbfI --inline_null -r -c -q -D ~/Documents/dls/crowRAD/stacks/discarded_reads/DLS001F
+process_radtags -p ~/Documents/dls/crowRAD/DLS002A/ -i gzfastq -o ~/Documents/dls/crowRAD/stacks/DLS002A/ -b ~/Documents/dls/crowRAD/barcodes_stacks/barcodesDLS002A.txt -e sbfI --inline_null -r -c -q -D ~/Documents/dls/crowRAD/stacks/discarded_reads/DLS002A
+process_radtags -p ~/Documents/dls/crowRAD/DLS002B/ -i gzfastq -o ~/Documents/dls/crowRAD/stacks/DLS002B/ -b ~/Documents/dls/crowRAD/barcodes_stacks/barcodesDLS002B.txt -e sbfI --inline_null -r -c -q -D ~/Documents/dls/crowRAD/stacks/discarded_reads/DLS002B

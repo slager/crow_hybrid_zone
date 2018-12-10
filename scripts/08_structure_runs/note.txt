@@ -1,0 +1,3 @@
+run this line before cat *.sh | parallel:
+
+RANDOM=12345

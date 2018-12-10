@@ -1,0 +1,12 @@
+K2.Cb.s62.r0.05.maf0.02.het0.5.str.tsv.unlinked.out_f
+62
+7292
+
+K=1
+K=2
+K=3
+
+5 each
+200,000 reps
+20,000 burn-in
+

@@ -1,0 +1,8 @@
+TGCAT	nynj03
+AAGGA	nynj04
+GCATG	nf01
+AACCA	ewa01
+CAACC	ewa02
+TCGAT	ewa03
+CGATC	ewa04
+GGTTG	ewa05

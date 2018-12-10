@@ -1,0 +1,8 @@
+TGCAT	kit01
+AAGGA	nvi01
+GCATG	neah03
+AACCA	neah04
+CAACC	yvr01
+TCGAT	yvr04
+CGATC	vic01
+GGTTG	vic03

@@ -1,0 +1,210 @@
+burke@burke-X9DAL:~/Documents/dls/crowRAD/stacks$ ./process-rad.sh
+Processing single-end data.
+Using Phred+33 encoding for quality scores.
+Found 7 input file(s).
+Searching for single-end, inlined barcodes.
+Loaded 8 barcodes (5bp).
+Will attempt to recover barcodes with at most 1 mismatches.
+Processing file 1 of 7 [DLS001A_index1_ATCACG_L008_R1_002.fastq.gz]
+  4000000 total reads; -427481 ambiguous barcodes; -43616 ambiguous RAD-Tags; +2763545 recovered; -618584 low quality reads; 2910319 retained reads.
+Processing file 2 of 7 [DLS001A_index1_ATCACG_L008_R1_004.fastq.gz]
+  3569684 total reads; -525876 ambiguous barcodes; -38810 ambiguous RAD-Tags; +2657037 recovered; -585528 low quality reads; 2419470 retained reads.
+Processing file 3 of 7 [DLS001A_index1_ATCACG_L007_R1_002re.fastq.gz]
+  4000000 total reads; -57553 ambiguous barcodes; -28533 ambiguous RAD-Tags; +214021 recovered; -187884 low quality reads; 3726030 retained reads.
+Processing file 4 of 7 [DLS001A_index1_ATCACG_L007_R1_001re.fastq.gz]
+  4000000 total reads; -26785 ambiguous barcodes; -28006 ambiguous RAD-Tags; +104024 recovered; -171626 low quality reads; 3773583 retained reads.
+Processing file 5 of 7 [DLS001A_index1_ATCACG_L008_R1_001.fastq.gz]
+  4000000 total reads; -326826 ambiguous barcodes; -38484 ambiguous RAD-Tags; +2293504 recovered; -500604 low quality reads; 3134086 retained reads.
+Processing file 6 of 7 [DLS001A_index1_ATCACG_L008_R1_003.fastq.gz]
+  4000000 total reads; -441795 ambiguous barcodes; -37189 ambiguous RAD-Tags; +1822277 recovered; -506204 low quality reads; 3014812 retained reads.
+Processing file 7 of 7 [DLS001A_index1_ATCACG_L007_R1_003re.fastq.gz]
+  995643 total reads; -22874 ambiguous barcodes; -7349 ambiguous RAD-Tags; +108338 recovered; -58201 low quality reads; 907219 retained reads.
+Closing files, flushing buffers...
+Outputing details to log: '/home/burke/Documents/dls/crowRAD/stacks/DLS001A/process_radtags.log'
+
+24565327 total sequences;
+  1829190 ambiguous barcode drops;
+  2628631 low quality read drops;
+  221987 ambiguous RAD-Tag drops;
+19885519 retained reads.
+Processing single-end data.
+Using Phred+33 encoding for quality scores.
+Found 8 input file(s).
+Searching for single-end, inlined barcodes.
+Loaded 8 barcodes (5bp).
+Will attempt to recover barcodes with at most 1 mismatches.
+Processing file 1 of 8 [DLS001B_index2_CGATGT_L008_R1_001.fastq.gz]
+  4000000 total reads; -348617 ambiguous barcodes; -32230 ambiguous RAD-Tags; +2201276 recovered; -455513 low quality reads; 3163640 retained reads.
+Processing file 2 of 8 [DLS001B_index2_CGATGT_L008_R1_005.fastq.gz]
+  108331 total reads; -41536 ambiguous barcodes; -1394 ambiguous RAD-Tags; +102951 recovered; -21017 low quality reads; 44384 retained reads.
+Processing file 3 of 8 [DLS001B_index2_CGATGT_L007_R1_001re.fastq.gz]
+  4000000 total reads; -26954 ambiguous barcodes; -21929 ambiguous RAD-Tags; +91852 recovered; -155049 low quality reads; 3796068 retained reads.
+Processing file 4 of 8 [DLS001B_index2_CGATGT_L008_R1_002.fastq.gz]
+  4000000 total reads; -459080 ambiguous barcodes; -39520 ambiguous RAD-Tags; +2937797 recovered; -592718 low quality reads; 2908682 retained reads.
+Processing file 5 of 8 [DLS001B_index2_CGATGT_L007_R1_002re.fastq.gz]
+  4000000 total reads; -73148 ambiguous barcodes; -22551 ambiguous RAD-Tags; +247781 recovered; -175408 low quality reads; 3728893 retained reads.
+Processing file 6 of 8 [DLS001B_index2_CGATGT_L008_R1_004.fastq.gz]
+  4000000 total reads; -573421 ambiguous barcodes; -37038 ambiguous RAD-Tags; +2835743 recovered; -594960 low quality reads; 2794581 retained reads.
+Processing file 7 of 8 [DLS001B_index2_CGATGT_L008_R1_003.fastq.gz]
+  4000000 total reads; -454861 ambiguous barcodes; -30803 ambiguous RAD-Tags; +1744821 recovered; -459586 low quality reads; 3054750 retained reads.
+Processing file 8 of 8 [DLS001B_index2_CGATGT_L007_R1_003re.fastq.gz]
+  1494300 total reads; -29702 ambiguous barcodes; -8616 ambiguous RAD-Tags; +125106 recovered; -74246 low quality reads; 1381736 retained reads.
+Closing files, flushing buffers...
+Outputing details to log: '/home/burke/Documents/dls/crowRAD/stacks/DLS001B/process_radtags.log'
+
+25602631 total sequences;
+  2007319 ambiguous barcode drops;
+  2528497 low quality read drops;
+  194081 ambiguous RAD-Tag drops;
+20872734 retained reads.
+Processing single-end data.
+Using Phred+33 encoding for quality scores.
+Found 7 input file(s).
+Searching for single-end, inlined barcodes.
+Loaded 8 barcodes (5bp).
+Will attempt to recover barcodes with at most 1 mismatches.
+Processing file 1 of 7 [DLS001C_index3_TTAGGC_L008_R1_002.fastq.gz]
+  4000000 total reads; -439269 ambiguous barcodes; -60598 ambiguous RAD-Tags; +2657129 recovered; -569736 low quality reads; 2930397 retained reads.
+Processing file 2 of 7 [DLS001C_index3_TTAGGC_L008_R1_001.fastq.gz]
+  4000000 total reads; -350744 ambiguous barcodes; -55985 ambiguous RAD-Tags; +2271483 recovered; -466182 low quality reads; 3127089 retained reads.
+Processing file 3 of 7 [DLS001C_index3_TTAGGC_L007_R1_001re.fastq.gz]
+  4000000 total reads; -34477 ambiguous barcodes; -47896 ambiguous RAD-Tags; +101058 recovered; -157138 low quality reads; 3760489 retained reads.
+Processing file 4 of 7 [DLS001C_index3_TTAGGC_L007_R1_002re.fastq.gz]
+  4000000 total reads; -74962 ambiguous barcodes; -47975 ambiguous RAD-Tags; +234890 recovered; -174837 low quality reads; 3702226 retained reads.
+Processing file 5 of 7 [DLS001C_index3_TTAGGC_L008_R1_003.fastq.gz]
+  4000000 total reads; -485113 ambiguous barcodes; -54980 ambiguous RAD-Tags; +1934349 recovered; -479952 low quality reads; 2979955 retained reads.
+Processing file 6 of 7 [DLS001C_index3_TTAGGC_L008_R1_004.fastq.gz]
+  3302283 total reads; -504622 ambiguous barcodes; -50470 ambiguous RAD-Tags; +2338872 recovered; -504568 low quality reads; 2242623 retained reads.
+Processing file 7 of 7 [DLS001C_index3_TTAGGC_L007_R1_003re.fastq.gz]
+  1372580 total reads; -30376 ambiguous barcodes; -16515 ambiguous RAD-Tags; +116185 recovered; -70042 low quality reads; 1255647 retained reads.
+Closing files, flushing buffers...
+Outputing details to log: '/home/burke/Documents/dls/crowRAD/stacks/DLS001C/process_radtags.log'
+
+24674863 total sequences;
+  1919563 ambiguous barcode drops;
+  2422455 low quality read drops;
+  334419 ambiguous RAD-Tag drops;
+19998426 retained reads.
+Processing single-end data.
+Using Phred+33 encoding for quality scores.
+Found 8 input file(s).
+Searching for single-end, inlined barcodes.
+Loaded 8 barcodes (5bp).
+Will attempt to recover barcodes with at most 1 mismatches.
+Processing file 1 of 8 [DLS001D_index4_TGACCA_L008_R1_002.fastq.gz]
+  4000000 total reads; -390955 ambiguous barcodes; -52003 ambiguous RAD-Tags; +2513962 recovered; -566603 low quality reads; 2990439 retained reads.
+Processing file 2 of 8 [DLS001D_index4_TGACCA_L008_R1_005.fastq.gz]
+  2073648 total reads; -393917 ambiguous barcodes; -29731 ambiguous RAD-Tags; +1760684 recovered; -348234 low quality reads; 1301766 retained reads.
+Processing file 3 of 8 [DLS001D_index4_TGACCA_L007_R1_001re.fastq.gz]
+  4000000 total reads; -33744 ambiguous barcodes; -41229 ambiguous RAD-Tags; +95568 recovered; -162888 low quality reads; 3762139 retained reads.
+Processing file 4 of 8 [DLS001D_index4_TGACCA_L008_R1_001.fastq.gz]
+  4000000 total reads; -348734 ambiguous barcodes; -48104 ambiguous RAD-Tags; +2114234 recovered; -445229 low quality reads; 3157933 retained reads.
+Processing file 5 of 8 [DLS001D_index4_TGACCA_L008_R1_004.fastq.gz]
+  4000000 total reads; -430355 ambiguous barcodes; -46541 ambiguous RAD-Tags; +1873575 recovered; -475621 low quality reads; 3047483 retained reads.
+Processing file 6 of 8 [DLS001D_index4_TGACCA_L007_R1_002re.fastq.gz]
+  4000000 total reads; -69897 ambiguous barcodes; -41600 ambiguous RAD-Tags; +212883 recovered; -177177 low quality reads; 3711326 retained reads.
+Processing file 7 of 8 [DLS001D_index4_TGACCA_L008_R1_003.fastq.gz]
+  4000000 total reads; -558396 ambiguous barcodes; -53819 ambiguous RAD-Tags; +2752150 recovered; -557914 low quality reads; 2829871 retained reads.
+Processing file 8 of 8 [DLS001D_index4_TGACCA_L007_R1_003re.fastq.gz]
+  2577131 total reads; -58821 ambiguous barcodes; -26890 ambiguous RAD-Tags; +207460 recovered; -130535 low quality reads; 2360885 retained reads.
+Closing files, flushing buffers...
+Outputing details to log: '/home/burke/Documents/dls/crowRAD/stacks/DLS001D/process_radtags.log'
+
+28650779 total sequences;
+  2284819 ambiguous barcode drops;
+  2864201 low quality read drops;
+  339917 ambiguous RAD-Tag drops;
+23161842 retained reads.
+Processing single-end data.
+Using Phred+33 encoding for quality scores.
+Found 7 input file(s).
+Searching for single-end, inlined barcodes.
+Loaded 8 barcodes (5bp).
+Will attempt to recover barcodes with at most 1 mismatches.
+Processing file 1 of 7 [DLS001E_index5_ACAGTG_L008_R1_002.fastq.gz]
+  4000000 total reads; -416998 ambiguous barcodes; -64734 ambiguous RAD-Tags; +2626413 recovered; -573159 low quality reads; 2945109 retained reads.
+Processing file 2 of 7 [DLS001E_index5_ACAGTG_L007_R1_001re.fastq.gz]
+  4000000 total reads; -31904 ambiguous barcodes; -54962 ambiguous RAD-Tags; +114170 recovered; -163363 low quality reads; 3749771 retained reads.
+Processing file 3 of 7 [DLS001E_index5_ACAGTG_L007_R1_002re.fastq.gz]
+  4000000 total reads; -57917 ambiguous barcodes; -54781 ambiguous RAD-Tags; +206665 recovered; -177422 low quality reads; 3709880 retained reads.
+Processing file 4 of 7 [DLS001E_index5_ACAGTG_L008_R1_004.fastq.gz]
+  3043746 total reads; -449251 ambiguous barcodes; -49250 ambiguous RAD-Tags; +2070742 recovered; -470291 low quality reads; 2074954 retained reads.
+Processing file 5 of 7 [DLS001E_index5_ACAGTG_L008_R1_003.fastq.gz]
+  4000000 total reads; -482831 ambiguous barcodes; -61319 ambiguous RAD-Tags; +2159157 recovered; -508544 low quality reads; 2947306 retained reads.
+Processing file 6 of 7 [DLS001E_index5_ACAGTG_L007_R1_003re.fastq.gz]
+  742170 total reads; -21270 ambiguous barcodes; -10312 ambiguous RAD-Tags; +95517 recovered; -42817 low quality reads; 667771 retained reads.
+Processing file 7 of 7 [DLS001E_index5_ACAGTG_L008_R1_001.fastq.gz]
+  4000000 total reads; -333189 ambiguous barcodes; -60823 ambiguous RAD-Tags; +2284917 recovered; -475650 low quality reads; 3130338 retained reads.
+Closing files, flushing buffers...
+Outputing details to log: '/home/burke/Documents/dls/crowRAD/stacks/DLS001E/process_radtags.log'
+
+23785916 total sequences;
+  1793360 ambiguous barcode drops;
+  2411246 low quality read drops;
+  356181 ambiguous RAD-Tag drops;
+19225129 retained reads.
+Processing single-end data.
+Using Phred+33 encoding for quality scores.
+Found 7 input file(s).
+Searching for single-end, inlined barcodes.
+Loaded 8 barcodes (5bp).
+Will attempt to recover barcodes with at most 1 mismatches.
+Processing file 1 of 7 [DLS001F_index6_GCCAAT_L008_R1_001.fastq.gz]
+  4000000 total reads; -333202 ambiguous barcodes; -30311 ambiguous RAD-Tags; +2288581 recovered; -490937 low quality reads; 3145550 retained reads.
+Processing file 2 of 7 [DLS001F_index6_GCCAAT_L008_R1_004.fastq.gz]
+  2668813 total reads; -384623 ambiguous barcodes; -22841 ambiguous RAD-Tags; +1706042 recovered; -423007 low quality reads; 1838342 retained reads.
+Processing file 3 of 7 [DLS001F_index6_GCCAAT_L007_R1_001re.fastq.gz]
+  4000000 total reads; -32002 ambiguous barcodes; -20948 ambiguous RAD-Tags; +114290 recovered; -170528 low quality reads; 3776522 retained reads.
+Processing file 4 of 7 [DLS001F_index6_GCCAAT_L007_R1_002re.fastq.gz]
+  4000000 total reads; -59234 ambiguous barcodes; -21651 ambiguous RAD-Tags; +208216 recovered; -183529 low quality reads; 3735586 retained reads.
+Processing file 5 of 7 [DLS001F_index6_GCCAAT_L007_R1_003re.fastq.gz]
+  717989 total reads; -21441 ambiguous barcodes; -3997 ambiguous RAD-Tags; +98688 recovered; -43765 low quality reads; 648786 retained reads.
+Processing file 6 of 7 [DLS001F_index6_GCCAAT_L008_R1_002.fastq.gz]
+  4000000 total reads; -409506 ambiguous barcodes; -34070 ambiguous RAD-Tags; +2585106 recovered; -585246 low quality reads; 2971178 retained reads.
+Processing file 7 of 7 [DLS001F_index6_GCCAAT_L008_R1_003.fastq.gz]
+  4000000 total reads; -507041 ambiguous barcodes; -32375 ambiguous RAD-Tags; +2455290 recovered; -532446 low quality reads; 2928138 retained reads.
+Closing files, flushing buffers...
+Outputing details to log: '/home/burke/Documents/dls/crowRAD/stacks/DLS001F/process_radtags.log'
+
+23386802 total sequences;
+  1747049 ambiguous barcode drops;
+  2429458 low quality read drops;
+  166193 ambiguous RAD-Tag drops;
+19044102 retained reads.
+Processing single-end data.
+Using Phred+33 encoding for quality scores.
+Found 2 input file(s).
+Searching for single-end, inlined barcodes.
+Loaded 8 barcodes (5bp).
+Will attempt to recover barcodes with at most 1 mismatches.
+Processing file 1 of 2 [DLS002A_S8_L002_R1_001.fastq.gz]
+  7655026 total reads; -677658 ambiguous barcodes; -106624 ambiguous RAD-Tags; +871778 recovered; -239 low quality reads; 6870505 retained reads.
+Processing file 2 of 2 [DLS002A_S25_L002_R1_001re.fastq.gz]
+  8128533 total reads; -422992 ambiguous barcodes; -109821 ambiguous RAD-Tags; +434609 recovered; -21137 low quality reads; 7574583 retained reads.
+Closing files, flushing buffers...
+Outputing details to log: '/home/burke/Documents/dls/crowRAD/stacks/DLS002A/process_radtags.log'
+
+15783559 total sequences;
+  1100650 ambiguous barcode drops;
+  21376 low quality read drops;
+  216445 ambiguous RAD-Tag drops;
+14445088 retained reads.
+Processing single-end data.
+Using Phred+33 encoding for quality scores.
+Found 2 input file(s).
+Searching for single-end, inlined barcodes.
+Loaded 8 barcodes (5bp).
+Will attempt to recover barcodes with at most 1 mismatches.
+Processing file 1 of 2 [DLS002B_S26_L002_R1_001re.fastq.gz]
+  7806657 total reads; -340492 ambiguous barcodes; -79118 ambiguous RAD-Tags; +404698 recovered; -20456 low quality reads; 7366591 retained reads.
+Processing file 2 of 2 [DLS002B_S9_L002_R1_001.fastq.gz]
+  7323657 total reads; -604134 ambiguous barcodes; -80550 ambiguous RAD-Tags; +806170 recovered; -252 low quality reads; 6638721 retained reads.
+Closing files, flushing buffers...
+Outputing details to log: '/home/burke/Documents/dls/crowRAD/stacks/DLS002B/process_radtags.log'
+
+15130314 total sequences;
+  944626 ambiguous barcode drops;
+  20708 low quality read drops;
+  159668 ambiguous RAD-Tag drops;
+14005312 retained reads.
+burke@burke-X9DAL:~/Documents/dls/crowRAD/stacks$

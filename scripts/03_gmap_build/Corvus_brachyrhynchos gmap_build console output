@@ -1,0 +1,714 @@
+-k flag not specified, so building with default 15-mers
+Sorting chromosomes in chrom order.  To turn off or sort other ways, use the -s flag.
+Creating files in directory /home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos
+Running "/usr/local/bin/fa_coords" -g    -o "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos.coords" -f "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos.sources"
+Opening gzipped file /home/burke/Documents/dls/crowRAD/stacks/genomes/GCF_000691975.1_ASM69197v1_genomic.fna.gz
+  Processed short contigs (<1000000 nt): ...................................................................................................More than 100 short contigs.  Will stop printing.
+
+  Contig NW_008235735.1: concatenated at chromosome end: NW_008235735.1:1..1051287 (length = 1051287 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008235742.1: concatenated at chromosome end: NW_008235742.1:1..1858872 (length = 1858872 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008235744.1: concatenated at chromosome end: NW_008235744.1:1..1235813 (length = 1235813 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008235774.1: concatenated at chromosome end: NW_008235774.1:1..2029852 (length = 2029852 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008235809.1: concatenated at chromosome end: NW_008235809.1:1..1363028 (length = 1363028 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008235964.1: concatenated at chromosome end: NW_008235964.1:1..2532467 (length = 2532467 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008235977.1: concatenated at chromosome end: NW_008235977.1:1..5590969 (length = 5590969 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008235987.1: concatenated at chromosome end: NW_008235987.1:1..2557366 (length = 2557366 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236162.1: concatenated at chromosome end: NW_008236162.1:1..3681660 (length = 3681660 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236177.1: concatenated at chromosome end: NW_008236177.1:1..1524879 (length = 1524879 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236180.1: concatenated at chromosome end: NW_008236180.1:1..11015167 (length = 11015167 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236184.1: concatenated at chromosome end: NW_008236184.1:1..8878168 (length = 8878168 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236193.1: concatenated at chromosome end: NW_008236193.1:1..1843724 (length = 1843724 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236196.1: concatenated at chromosome end: NW_008236196.1:1..3907108 (length = 3907108 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236198.1: concatenated at chromosome end: NW_008236198.1:1..1288030 (length = 1288030 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236203.1: concatenated at chromosome end: NW_008236203.1:1..1161731 (length = 1161731 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236209.1: concatenated at chromosome end: NW_008236209.1:1..8096260 (length = 8096260 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236213.1: concatenated at chromosome end: NW_008236213.1:1..4217398 (length = 4217398 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236217.1: concatenated at chromosome end: NW_008236217.1:1..10596748 (length = 10596748 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236219.1: concatenated at chromosome end: NW_008236219.1:1..1387619 (length = 1387619 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236230.1: concatenated at chromosome end: NW_008236230.1:1..2830975 (length = 2830975 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236246.1: concatenated at chromosome end: NW_008236246.1:1..1199846 (length = 1199846 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236438.1: concatenated at chromosome end: NW_008236438.1:1..1500227 (length = 1500227 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236441.1: concatenated at chromosome end: NW_008236441.1:1..2534485 (length = 2534485 nt)
+  Contig NW_008236442.1: concatenated at chromosome end: NW_008236442.1:1..6156604 (length = 6156604 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236445.1: concatenated at chromosome end: NW_008236445.1:1..2867284 (length = 2867284 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236478.1: concatenated at chromosome end: NW_008236478.1:1..10008160 (length = 10008160 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236487.1: concatenated at chromosome end: NW_008236487.1:1..4061902 (length = 4061902 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236509.1: concatenated at chromosome end: NW_008236509.1:1..5976277 (length = 5976277 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236622.1: concatenated at chromosome end: NW_008236622.1:1..4185408 (length = 4185408 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236626.1: concatenated at chromosome end: NW_008236626.1:1..3590165 (length = 3590165 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236629.1: concatenated at chromosome end: NW_008236629.1:1..4631952 (length = 4631952 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236636.1: concatenated at chromosome end: NW_008236636.1:1..1150493 (length = 1150493 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236640.1: concatenated at chromosome end: NW_008236640.1:1..1636220 (length = 1636220 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236649.1: concatenated at chromosome end: NW_008236649.1:1..1121912 (length = 1121912 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236696.1: concatenated at chromosome end: NW_008236696.1:1..8262346 (length = 8262346 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236761.1: concatenated at chromosome end: NW_008236761.1:1..1652330 (length = 1652330 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236763.1: concatenated at chromosome end: NW_008236763.1:1..2786897 (length = 2786897 nt)
+  Contig NW_008236764.1: concatenated at chromosome end: NW_008236764.1:1..1970928 (length = 1970928 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236766.1: concatenated at chromosome end: NW_008236766.1:1..1998499 (length = 1998499 nt)
+  Contig NW_008236767.1: concatenated at chromosome end: NW_008236767.1:1..8453332 (length = 8453332 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236769.1: concatenated at chromosome end: NW_008236769.1:1..15239052 (length = 15239052 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236778.1: concatenated at chromosome end: NW_008236778.1:1..1348462 (length = 1348462 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236807.1: concatenated at chromosome end: NW_008236807.1:1..2475301 (length = 2475301 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236924.1: concatenated at chromosome end: NW_008236924.1:1..7835324 (length = 7835324 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236932.1: concatenated at chromosome end: NW_008236932.1:1..7078826 (length = 7078826 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236935.1: concatenated at chromosome end: NW_008236935.1:1..1199648 (length = 1199648 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236965.1: concatenated at chromosome end: NW_008236965.1:1..8248703 (length = 8248703 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236973.1: concatenated at chromosome end: NW_008236973.1:1..5884029 (length = 5884029 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008236979.1: concatenated at chromosome end: NW_008236979.1:1..1309136 (length = 1309136 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237174.1: concatenated at chromosome end: NW_008237174.1:1..6313655 (length = 6313655 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237221.1: concatenated at chromosome end: NW_008237221.1:1..4841118 (length = 4841118 nt)
+  Contig NW_008237222.1: concatenated at chromosome end: NW_008237222.1:1..13661208 (length = 13661208 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237226.1: concatenated at chromosome end: NW_008237226.1:1..11439296 (length = 11439296 nt)
+  Contig NW_008237227.1: concatenated at chromosome end: NW_008237227.1:1..1813324 (length = 1813324 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237229.1: concatenated at chromosome end: NW_008237229.1:1..6819836 (length = 6819836 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237231.1: concatenated at chromosome end: NW_008237231.1:1..1564944 (length = 1564944 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237233.1: concatenated at chromosome end: NW_008237233.1:1..2252106 (length = 2252106 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237239.1: concatenated at chromosome end: NW_008237239.1:1..23690953 (length = 23690953 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237242.1: concatenated at chromosome end: NW_008237242.1:1..4471561 (length = 4471561 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237244.1: concatenated at chromosome end: NW_008237244.1:1..6189127 (length = 6189127 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237254.1: concatenated at chromosome end: NW_008237254.1:1..2099476 (length = 2099476 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237265.1: concatenated at chromosome end: NW_008237265.1:1..3103295 (length = 3103295 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237273.1: concatenated at chromosome end: NW_008237273.1:1..1750737 (length = 1750737 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237353.1: concatenated at chromosome end: NW_008237353.1:1..5728862 (length = 5728862 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237404.1: concatenated at chromosome end: NW_008237404.1:1..2536275 (length = 2536275 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237408.1: concatenated at chromosome end: NW_008237408.1:1..1872016 (length = 1872016 nt)
+  Contig NW_008237409.1: concatenated at chromosome end: NW_008237409.1:1..3942007 (length = 3942007 nt)
+  Contig NW_008237410.1: concatenated at chromosome end: NW_008237410.1:1..3270214 (length = 3270214 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237426.1: concatenated at chromosome end: NW_008237426.1:1..1678969 (length = 1678969 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237434.1: concatenated at chromosome end: NW_008237434.1:1..2777263 (length = 2777263 nt)
+  Contig NW_008237435.1: concatenated at chromosome end: NW_008237435.1:1..3463661 (length = 3463661 nt)
+  Contig NW_008237436.1: concatenated at chromosome end: NW_008237436.1:1..6790622 (length = 6790622 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237447.1: concatenated at chromosome end: NW_008237447.1:1..9041433 (length = 9041433 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237525.1: concatenated at chromosome end: NW_008237525.1:1..1088914 (length = 1088914 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237609.1: concatenated at chromosome end: NW_008237609.1:1..5951876 (length = 5951876 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237619.1: concatenated at chromosome end: NW_008237619.1:1..13679437 (length = 13679437 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237648.1: concatenated at chromosome end: NW_008237648.1:1..1545450 (length = 1545450 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237681.1: concatenated at chromosome end: NW_008237681.1:1..8079061 (length = 8079061 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237871.1: concatenated at chromosome end: NW_008237871.1:1..1417184 (length = 1417184 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237878.1: concatenated at chromosome end: NW_008237878.1:1..9373405 (length = 9373405 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237885.1: concatenated at chromosome end: NW_008237885.1:1..7944044 (length = 7944044 nt)
+  Contig NW_008237886.1: concatenated at chromosome end: NW_008237886.1:1..1761666 (length = 1761666 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237890.1: concatenated at chromosome end: NW_008237890.1:1..5797277 (length = 5797277 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237902.1: concatenated at chromosome end: NW_008237902.1:1..2383293 (length = 2383293 nt)
+  Contig NW_008237903.1: concatenated at chromosome end: NW_008237903.1:1..1729990 (length = 1729990 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237919.1: concatenated at chromosome end: NW_008237919.1:1..16621057 (length = 16621057 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008237953.1: concatenated at chromosome end: NW_008237953.1:1..1973935 (length = 1973935 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238126.1: concatenated at chromosome end: NW_008238126.1:1..8823540 (length = 8823540 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238132.1: concatenated at chromosome end: NW_008238132.1:1..8027030 (length = 8027030 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238316.1: concatenated at chromosome end: NW_008238316.1:1..2901732 (length = 2901732 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238319.1: concatenated at chromosome end: NW_008238319.1:1..3613338 (length = 3613338 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238321.1: concatenated at chromosome end: NW_008238321.1:1..13451400 (length = 13451400 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238323.1: concatenated at chromosome end: NW_008238323.1:1..1009180 (length = 1009180 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238325.1: concatenated at chromosome end: NW_008238325.1:1..3740180 (length = 3740180 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238330.1: concatenated at chromosome end: NW_008238330.1:1..12955167 (length = 12955167 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238337.1: concatenated at chromosome end: NW_008238337.1:1..8984197 (length = 8984197 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238340.1: concatenated at chromosome end: NW_008238340.1:1..1637356 (length = 1637356 nt)
+  Contig NW_008238341.1: concatenated at chromosome end: NW_008238341.1:1..1280350 (length = 1280350 nt)
+  Contig NW_008238342.1: concatenated at chromosome end: NW_008238342.1:1..2375862 (length = 2375862 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238346.1: concatenated at chromosome end: NW_008238346.1:1..3062194 (length = 3062194 nt)
+  Contig NW_008238347.1: concatenated at chromosome end: NW_008238347.1:1..2189193 (length = 2189193 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238349.1: concatenated at chromosome end: NW_008238349.1:1..2774834 (length = 2774834 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238355.1: concatenated at chromosome end: NW_008238355.1:1..8153470 (length = 8153470 nt)
+  Contig NW_008238356.1: concatenated at chromosome end: NW_008238356.1:1..1432591 (length = 1432591 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238358.1: concatenated at chromosome end: NW_008238358.1:1..9573083 (length = 9573083 nt)
+  Contig NW_008238359.1: concatenated at chromosome end: NW_008238359.1:1..8588730 (length = 8588730 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238361.1: concatenated at chromosome end: NW_008238361.1:1..2502888 (length = 2502888 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238365.1: concatenated at chromosome end: NW_008238365.1:1..4441677 (length = 4441677 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238372.1: concatenated at chromosome end: NW_008238372.1:1..2482562 (length = 2482562 nt)
+  Contig NW_008238373.1: concatenated at chromosome end: NW_008238373.1:1..2613865 (length = 2613865 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238433.1: concatenated at chromosome end: NW_008238433.1:1..1043077 (length = 1043077 nt)
+  Contig NW_008238434.1: concatenated at chromosome end: NW_008238434.1:1..2182592 (length = 2182592 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238439.1: concatenated at chromosome end: NW_008238439.1:1..2320285 (length = 2320285 nt)
+  Contig NW_008238440.1: concatenated at chromosome end: NW_008238440.1:1..4186914 (length = 4186914 nt)
+  Contig NW_008238441.1: concatenated at chromosome end: NW_008238441.1:1..1315385 (length = 1315385 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238447.1: concatenated at chromosome end: NW_008238447.1:1..2728565 (length = 2728565 nt)
+  Contig NW_008238448.1: concatenated at chromosome end: NW_008238448.1:1..8285021 (length = 8285021 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238452.1: concatenated at chromosome end: NW_008238452.1:1..4313306 (length = 4313306 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238464.1: concatenated at chromosome end: NW_008238464.1:1..13868843 (length = 13868843 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238632.1: concatenated at chromosome end: NW_008238632.1:1..4792130 (length = 4792130 nt)
+  Contig NW_008238633.1: concatenated at chromosome end: NW_008238633.1:1..3481556 (length = 3481556 nt)
+  Contig NW_008238634.1: concatenated at chromosome end: NW_008238634.1:1..1137101 (length = 1137101 nt)
+  Contig NW_008238635.1: concatenated at chromosome end: NW_008238635.1:1..2635610 (length = 2635610 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238643.1: concatenated at chromosome end: NW_008238643.1:1..1199981 (length = 1199981 nt)
+  Contig NW_008238644.1: concatenated at chromosome end: NW_008238644.1:1..6522421 (length = 6522421 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238647.1: concatenated at chromosome end: NW_008238647.1:1..1313279 (length = 1313279 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238660.1: concatenated at chromosome end: NW_008238660.1:1..1280444 (length = 1280444 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238664.1: concatenated at chromosome end: NW_008238664.1:1..11367212 (length = 11367212 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238831.1: concatenated at chromosome end: NW_008238831.1:1..1667726 (length = 1667726 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238833.1: concatenated at chromosome end: NW_008238833.1:1..2551262 (length = 2551262 nt)
+  Contig NW_008238834.1: concatenated at chromosome end: NW_008238834.1:1..6344767 (length = 6344767 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238838.1: concatenated at chromosome end: NW_008238838.1:1..6953989 (length = 6953989 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238959.1: concatenated at chromosome end: NW_008238959.1:1..2404844 (length = 2404844 nt)
+  Contig NW_008238960.1: concatenated at chromosome end: NW_008238960.1:1..2485708 (length = 2485708 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238966.1: concatenated at chromosome end: NW_008238966.1:1..1823101 (length = 1823101 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238983.1: concatenated at chromosome end: NW_008238983.1:1..13672043 (length = 13672043 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008238988.1: concatenated at chromosome end: NW_008238988.1:1..7918223 (length = 7918223 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239000.1: concatenated at chromosome end: NW_008239000.1:1..1345523 (length = 1345523 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239050.1: concatenated at chromosome end: NW_008239050.1:1..2035696 (length = 2035696 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239054.1: concatenated at chromosome end: NW_008239054.1:1..6922057 (length = 6922057 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239056.1: concatenated at chromosome end: NW_008239056.1:1..1634287 (length = 1634287 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239080.1: concatenated at chromosome end: NW_008239080.1:1..10545033 (length = 10545033 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239104.1: concatenated at chromosome end: NW_008239104.1:1..1216623 (length = 1216623 nt)
+  Contig NW_008239105.1: concatenated at chromosome end: NW_008239105.1:1..1478671 (length = 1478671 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239110.1: concatenated at chromosome end: NW_008239110.1:1..23824874 (length = 23824874 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239114.1: concatenated at chromosome end: NW_008239114.1:1..1407834 (length = 1407834 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239139.1: concatenated at chromosome end: NW_008239139.1:1..3581474 (length = 3581474 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239283.1: concatenated at chromosome end: NW_008239283.1:1..11189246 (length = 11189246 nt)
+  Contig NW_008239284.1: concatenated at chromosome end: NW_008239284.1:1..3116494 (length = 3116494 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239288.1: concatenated at chromosome end: NW_008239288.1:1..4588554 (length = 4588554 nt)
+  Contig NW_008239289.1: concatenated at chromosome end: NW_008239289.1:1..2674992 (length = 2674992 nt)
+  Contig NW_008239290.1: concatenated at chromosome end: NW_008239290.1:1..1993315 (length = 1993315 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239292.1: concatenated at chromosome end: NW_008239292.1:1..1843208 (length = 1843208 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239295.1: concatenated at chromosome end: NW_008239295.1:1..1759809 (length = 1759809 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239304.1: concatenated at chromosome end: NW_008239304.1:1..2528729 (length = 2528729 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239309.1: concatenated at chromosome end: NW_008239309.1:1..3129853 (length = 3129853 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239321.1: concatenated at chromosome end: NW_008239321.1:1..1093837 (length = 1093837 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239324.1: concatenated at chromosome end: NW_008239324.1:1..14258805 (length = 14258805 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239334.1: concatenated at chromosome end: NW_008239334.1:1..1567604 (length = 1567604 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239539.1: concatenated at chromosome end: NW_008239539.1:1..1912521 (length = 1912521 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239544.1: concatenated at chromosome end: NW_008239544.1:1..2269658 (length = 2269658 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239547.1: concatenated at chromosome end: NW_008239547.1:1..8278413 (length = 8278413 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239553.1: concatenated at chromosome end: NW_008239553.1:1..25919742 (length = 25919742 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239647.1: concatenated at chromosome end: NW_008239647.1:1..2375241 (length = 2375241 nt)
+  Contig NW_008239648.1: concatenated at chromosome end: NW_008239648.1:1..1168119 (length = 1168119 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239671.1: concatenated at chromosome end: NW_008239671.1:1..3253178 (length = 3253178 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239756.1: concatenated at chromosome end: NW_008239756.1:1..1417273 (length = 1417273 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239758.1: concatenated at chromosome end: NW_008239758.1:1..8510096 (length = 8510096 nt)
+  Contig NW_008239759.1: concatenated at chromosome end: NW_008239759.1:1..2232053 (length = 2232053 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239762.1: concatenated at chromosome end: NW_008239762.1:1..1223593 (length = 1223593 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239766.1: concatenated at chromosome end: NW_008239766.1:1..1189332 (length = 1189332 nt)
+  Contig NW_008239767.1: concatenated at chromosome end: NW_008239767.1:1..6747367 (length = 6747367 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239778.1: concatenated at chromosome end: NW_008239778.1:1..3449013 (length = 3449013 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239780.1: concatenated at chromosome end: NW_008239780.1:1..3547636 (length = 3547636 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008239785.1: concatenated at chromosome end: NW_008239785.1:1..3412780 (length = 3412780 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240020.1: concatenated at chromosome end: NW_008240020.1:1..1133805 (length = 1133805 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240023.1: concatenated at chromosome end: NW_008240023.1:1..1906573 (length = 1906573 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240027.1: concatenated at chromosome end: NW_008240027.1:1..7470859 (length = 7470859 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240030.1: concatenated at chromosome end: NW_008240030.1:1..1567674 (length = 1567674 nt)
+  Contig NW_008240031.1: concatenated at chromosome end: NW_008240031.1:1..3017394 (length = 3017394 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240033.1: concatenated at chromosome end: NW_008240033.1:1..3231893 (length = 3231893 nt)
+  Contig NW_008240034.1: concatenated at chromosome end: NW_008240034.1:1..1848254 (length = 1848254 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240037.1: concatenated at chromosome end: NW_008240037.1:1..3634530 (length = 3634530 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240039.1: concatenated at chromosome end: NW_008240039.1:1..3843589 (length = 3843589 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240042.1: concatenated at chromosome end: NW_008240042.1:1..8901342 (length = 8901342 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240046.1: concatenated at chromosome end: NW_008240046.1:1..17967946 (length = 17967946 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240049.1: concatenated at chromosome end: NW_008240049.1:1..1135217 (length = 1135217 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240122.1: concatenated at chromosome end: NW_008240122.1:1..6190272 (length = 6190272 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240221.1: concatenated at chromosome end: NW_008240221.1:1..16488145 (length = 16488145 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008240226.1: concatenated at chromosome end: NW_008240226.1:1..3383041 (length = 3383041 nt)
+  Contig NW_008240227.1: concatenated at chromosome end: NW_008240227.1:1..1846615 (length = 1846615 nt)
+  Contig NW_008240228.1: concatenated at chromosome end: NW_008240228.1:1..6762386 (length = 6762386 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008246054.1: concatenated at chromosome end: NW_008246054.1:1..7402479 (length = 7402479 nt)
+  Contig NW_008246055.1: concatenated at chromosome end: NW_008246055.1:1..1378249 (length = 1378249 nt)
+  Contig NW_008246056.1: concatenated at chromosome end: NW_008246056.1:1..3229451 (length = 3229451 nt)
+  Contig NW_008246057.1: concatenated at chromosome end: NW_008246057.1:1..10150870 (length = 10150870 nt)
+  Contig NW_008246058.1: concatenated at chromosome end: NW_008246058.1:1..10216321 (length = 10216321 nt)
+  Contig NW_008246059.1: concatenated at chromosome end: NW_008246059.1:1..4161049 (length = 4161049 nt)
+  Contig NW_008246060.1: concatenated at chromosome end: NW_008246060.1:1..12149275 (length = 12149275 nt)
+  Contig NW_008246061.1: concatenated at chromosome end: NW_008246061.1:1..3586684 (length = 3586684 nt)
+  Contig NW_008246062.1: concatenated at chromosome end: NW_008246062.1:1..5061129 (length = 5061129 nt)
+  Contig NW_008246063.1: concatenated at chromosome end: NW_008246063.1:1..5282723 (length = 5282723 nt)
+  Contig NW_008246064.1: concatenated at chromosome end: NW_008246064.1:1..5728815 (length = 5728815 nt)
+  Contig NW_008246065.1: concatenated at chromosome end: NW_008246065.1:1..2528290 (length = 2528290 nt)
+  Processed short contigs (<1000000 nt): 
+  Contig NW_008246067.1: concatenated at chromosome end: NW_008246067.1:1..1260342 (length = 1260342 nt)
+
+============================================================
+Contig mapping information has been written to file /home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos.coords.
+You should look at this file, and edit it if necessary
+If everything is okay, you should proceed by running
+    make gmapdb
+============================================================
+Running "/usr/local/bin/gmap_process" -g -c "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos.coords" -f "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos.sources" | "/usr/local/bin/gmapindex"  -d Corvus_brachyrhynchos -D "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -A 
+Reading coordinates from file /home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos.coords
+Logging contig NW_008235521.1 at NW_008235521.1:1..5269 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235522.1 at NW_008235522.1:1..358 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235523.1 at NW_008235523.1:1..812 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235524.1 at NW_008235524.1:1..12142 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235525.1 at NW_008235525.1:1..22602 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235526.1 at NW_008235526.1:1..15279 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235527.1 at NW_008235527.1:1..3336 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235528.1 at NW_008235528.1:1..892 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235529.1 at NW_008235529.1:1..798 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235530.1 at NW_008235530.1:1..5318 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235531.1 at NW_008235531.1:1..831 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235532.1 at NW_008235532.1:1..497 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235533.1 at NW_008235533.1:1..203 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235534.1 at NW_008235534.1:1..3593 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235535.1 at NW_008235535.1:1..27715 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235536.1 at NW_008235536.1:1..5692 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235537.1 at NW_008235537.1:1..16489 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235538.1 at NW_008235538.1:1..15370 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235539.1 at NW_008235539.1:1..788 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235540.1 at NW_008235540.1:1..205 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235541.1 at NW_008235541.1:1..11576 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235542.1 at NW_008235542.1:1..836 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235543.1 at NW_008235543.1:1..6298 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235544.1 at NW_008235544.1:1..213 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235545.1 at NW_008235545.1:1..8216 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235546.1 at NW_008235546.1:1..15524 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235547.1 at NW_008235547.1:1..168996 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235548.1 at NW_008235548.1:1..6206 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235549.1 at NW_008235549.1:1..148817 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235550.1 at NW_008235550.1:1..867 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235551.1 at NW_008235551.1:1..29825 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235552.1 at NW_008235552.1:1..1891 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235553.1 at NW_008235553.1:1..26560 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235554.1 at NW_008235554.1:1..315 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235555.1 at NW_008235555.1:1..14293 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235556.1 at NW_008235556.1:1..713 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235557.1 at NW_008235557.1:1..219 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235558.1 at NW_008235558.1:1..211 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235559.1 at NW_008235559.1:1..1130 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235560.1 at NW_008235560.1:1..232 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235561.1 at NW_008235561.1:1..849 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235562.1 at NW_008235562.1:1..18959 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235563.1 at NW_008235563.1:1..432 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235564.1 at NW_008235564.1:1..817 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235565.1 at NW_008235565.1:1..735 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235566.1 at NW_008235566.1:1..225 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235567.1 at NW_008235567.1:1..22915 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235568.1 at NW_008235568.1:1..20319 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235569.1 at NW_008235569.1:1..489 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+Logging contig NW_008235570.1 at NW_008235570.1:1..2815 in genome Corvus_brachyrhynchos
+ => primary (linear) chromosome
+More than 50 contigs.  Will stop printing messages
+Total genomic length = 1091312783 bp
+Have a total of 10547 chromosomes
+Writing chromosome file /home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos/Corvus_brachyrhynchos.chromosome
+Chromosome NW_008235521.1 has universal coordinates 1..5269
+Chromosome NW_008235522.1 has universal coordinates 5270..5627
+Chromosome NW_008235523.1 has universal coordinates 5628..6439
+Chromosome NW_008235524.1 has universal coordinates 6440..18581
+Chromosome NW_008235525.1 has universal coordinates 18582..41183
+Chromosome NW_008235526.1 has universal coordinates 41184..56462
+Chromosome NW_008235527.1 has universal coordinates 56463..59798
+Chromosome NW_008235528.1 has universal coordinates 59799..60690
+Chromosome NW_008235529.1 has universal coordinates 60691..61488
+Chromosome NW_008235530.1 has universal coordinates 61489..66806
+Chromosome NW_008235531.1 has universal coordinates 66807..67637
+Chromosome NW_008235532.1 has universal coordinates 67638..68134
+Chromosome NW_008235533.1 has universal coordinates 68135..68337
+Chromosome NW_008235534.1 has universal coordinates 68338..71930
+Chromosome NW_008235535.1 has universal coordinates 71931..99645
+Chromosome NW_008235536.1 has universal coordinates 99646..105337
+Chromosome NW_008235537.1 has universal coordinates 105338..121826
+Chromosome NW_008235538.1 has universal coordinates 121827..137196
+Chromosome NW_008235539.1 has universal coordinates 137197..137984
+Chromosome NW_008235540.1 has universal coordinates 137985..138189
+Chromosome NW_008235541.1 has universal coordinates 138190..149765
+Chromosome NW_008235542.1 has universal coordinates 149766..150601
+Chromosome NW_008235543.1 has universal coordinates 150602..156899
+Chromosome NW_008235544.1 has universal coordinates 156900..157112
+Chromosome NW_008235545.1 has universal coordinates 157113..165328
+Chromosome NW_008235546.1 has universal coordinates 165329..180852
+Chromosome NW_008235547.1 has universal coordinates 180853..349848
+Chromosome NW_008235548.1 has universal coordinates 349849..356054
+Chromosome NW_008235549.1 has universal coordinates 356055..504871
+Chromosome NW_008235550.1 has universal coordinates 504872..505738
+Chromosome NW_008235551.1 has universal coordinates 505739..535563
+Chromosome NW_008235552.1 has universal coordinates 535564..537454
+Chromosome NW_008235553.1 has universal coordinates 537455..564014
+Chromosome NW_008235554.1 has universal coordinates 564015..564329
+Chromosome NW_008235555.1 has universal coordinates 564330..578622
+Chromosome NW_008235556.1 has universal coordinates 578623..579335
+Chromosome NW_008235557.1 has universal coordinates 579336..579554
+Chromosome NW_008235558.1 has universal coordinates 579555..579765
+Chromosome NW_008235559.1 has universal coordinates 579766..580895
+Chromosome NW_008235560.1 has universal coordinates 580896..581127
+Chromosome NW_008235561.1 has universal coordinates 581128..581976
+Chromosome NW_008235562.1 has universal coordinates 581977..600935
+Chromosome NW_008235563.1 has universal coordinates 600936..601367
+Chromosome NW_008235564.1 has universal coordinates 601368..602184
+Chromosome NW_008235565.1 has universal coordinates 602185..602919
+Chromosome NW_008235566.1 has universal coordinates 602920..603144
+Chromosome NW_008235567.1 has universal coordinates 603145..626059
+Chromosome NW_008235568.1 has universal coordinates 626060..646378
+Chromosome NW_008235569.1 has universal coordinates 646379..646867
+Chromosome NW_008235570.1 has universal coordinates 646868..649682
+More than 50 contigs.  Will stop printing messages
+Writing chromosome IIT file /home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos/Corvus_brachyrhynchos.chromosome.iit
+Writing IIT file header information...coordinates require 4 bytes each...done
+Processing null division/chromosome...sorting...writing...done (10547 intervals)
+Writing IIT file footer information...done
+Writing IIT file header information...coordinates require 4 bytes each...done
+Processing null division/chromosome...sorting...writing...done (10547 intervals)
+Writing IIT file footer information...done
+No alternate scaffolds observed
+Running "/usr/local/bin/gmap_process" -g -c "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos.coords" -f "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos.sources" | "/usr/local/bin/gmapindex"  -d Corvus_brachyrhynchos -F "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -D "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -G
+Genome length is 1091312783 nt
+Trying to allocate 102310575*4 bytes of memory...succeeded.  Building genome in memory.
+Reading coordinates from file /home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos.coords
+Writing contig NW_008235521.1 to universal coordinates 1..5269
+Writing contig NW_008235522.1 to universal coordinates 5270..5627
+Writing contig NW_008235523.1 to universal coordinates 5628..6439
+Writing contig NW_008235524.1 to universal coordinates 6440..18581
+Writing contig NW_008235525.1 to universal coordinates 18582..41183
+Writing contig NW_008235526.1 to universal coordinates 41184..56462
+Writing contig NW_008235527.1 to universal coordinates 56463..59798
+Writing contig NW_008235528.1 to universal coordinates 59799..60690
+Writing contig NW_008235529.1 to universal coordinates 60691..61488
+Writing contig NW_008235530.1 to universal coordinates 61489..66806
+Writing contig NW_008235531.1 to universal coordinates 66807..67637
+Writing contig NW_008235532.1 to universal coordinates 67638..68134
+Writing contig NW_008235533.1 to universal coordinates 68135..68337
+Writing contig NW_008235534.1 to universal coordinates 68338..71930
+Writing contig NW_008235535.1 to universal coordinates 71931..99645
+Writing contig NW_008235536.1 to universal coordinates 99646..105337
+Writing contig NW_008235537.1 to universal coordinates 105338..121826
+Writing contig NW_008235538.1 to universal coordinates 121827..137196
+Writing contig NW_008235539.1 to universal coordinates 137197..137984
+Writing contig NW_008235540.1 to universal coordinates 137985..138189
+Writing contig NW_008235541.1 to universal coordinates 138190..149765
+Writing contig NW_008235542.1 to universal coordinates 149766..150601
+Writing contig NW_008235543.1 to universal coordinates 150602..156899
+Writing contig NW_008235544.1 to universal coordinates 156900..157112
+Writing contig NW_008235545.1 to universal coordinates 157113..165328
+Writing contig NW_008235546.1 to universal coordinates 165329..180852
+Writing contig NW_008235547.1 to universal coordinates 180853..349848
+Writing contig NW_008235548.1 to universal coordinates 349849..356054
+Writing contig NW_008235549.1 to universal coordinates 356055..504871
+Writing contig NW_008235550.1 to universal coordinates 504872..505738
+Writing contig NW_008235551.1 to universal coordinates 505739..535563
+Writing contig NW_008235552.1 to universal coordinates 535564..537454
+Writing contig NW_008235553.1 to universal coordinates 537455..564014
+Writing contig NW_008235554.1 to universal coordinates 564015..564329
+Writing contig NW_008235555.1 to universal coordinates 564330..578622
+Writing contig NW_008235556.1 to universal coordinates 578623..579335
+Writing contig NW_008235557.1 to universal coordinates 579336..579554
+Writing contig NW_008235558.1 to universal coordinates 579555..579765
+Writing contig NW_008235559.1 to universal coordinates 579766..580895
+Writing contig NW_008235560.1 to universal coordinates 580896..581127
+Writing contig NW_008235561.1 to universal coordinates 581128..581976
+Writing contig NW_008235562.1 to universal coordinates 581977..600935
+Writing contig NW_008235563.1 to universal coordinates 600936..601367
+Writing contig NW_008235564.1 to universal coordinates 601368..602184
+Writing contig NW_008235565.1 to universal coordinates 602185..602919
+Writing contig NW_008235566.1 to universal coordinates 602920..603144
+Writing contig NW_008235567.1 to universal coordinates 603145..626059
+Writing contig NW_008235568.1 to universal coordinates 626060..646378
+Writing contig NW_008235569.1 to universal coordinates 646379..646867
+More than 50 contigs.  Will stop printing messages
+A total of 0 non-ACGTNX characters were seen in the genome.
+Running cat "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos/Corvus_brachyrhynchos.genomecomp" | "/usr/local/bin/gmapindex" -d Corvus_brachyrhynchos -U > "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos/Corvus_brachyrhynchos.genomebits128"
+Running cat "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos/Corvus_brachyrhynchos.genomecomp" | "/usr/local/bin/gmapindex" -k 15 -q 3  -d Corvus_brachyrhynchos -F "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -D "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -N
+Counting positions in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 0
+Counting positions in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 100,000,000
+Counting positions in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 200,000,000
+Counting positions in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 300,000,000
+Counting positions in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 400,000,000
+Counting positions in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 500,000,000
+Counting positions in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 600,000,000
+Counting positions in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 700,000,000
+Counting positions in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 800,000,000
+Counting positions in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 900,000,000
+Counting positions in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 1,000,000,000
+Number of offsets: 350179233 => pages file not required
+Running "/usr/local/bin/gmapindex" -k 15 -q 3  -d Corvus_brachyrhynchos -F "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -D "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -O  "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos/Corvus_brachyrhynchos.genomecomp"
+Offset compression types: bitpack64
+Allocating 16777216*1 bytes for packsizes
+Allocating 16777216*8 bytes for bitpacks
+Indexing offsets of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 0
+Indexing offsets of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 100,000,000
+Indexing offsets of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 200,000,000
+Indexing offsets of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 300,000,000
+Indexing offsets of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 400,000,000
+Indexing offsets of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 500,000,000
+Indexing offsets of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 600,000,000
+Indexing offsets of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 700,000,000
+Indexing offsets of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 800,000,000
+Indexing offsets of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 900,000,000
+Indexing offsets of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 1,000,000,000
+Writing 1073741825 offsets compressed via bitpack64...done
+Running "/usr/local/bin/gmapindex" -k 15 -q 3  -d Corvus_brachyrhynchos -F "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -D "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -P "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos/Corvus_brachyrhynchos.genomecomp"
+Looking for index files in directory /home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos
+  Pointers file is Corvus_brachyrhynchos.ref153offsets64meta
+  Offsets file is Corvus_brachyrhynchos.ref153offsets64strm
+  Positions file is Corvus_brachyrhynchos.ref153positions
+Expanding offsetsstrm into counters...done
+Allocating 294967104 bytes for counterstrm
+Trying to allocate 350179233*4 bytes of memory for positions...succeeded.  Building positions in memory.
+Indexing positions of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 0
+Indexing positions of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 100,000,000
+Indexing positions of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 200,000,000
+Indexing positions of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 300,000,000
+Indexing positions of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 400,000,000
+Indexing positions of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 500,000,000
+Indexing positions of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 600,000,000
+Indexing positions of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 700,000,000
+Indexing positions of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 800,000,000
+Indexing positions of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 900,000,000
+Indexing positions of oligomers in genome Corvus_brachyrhynchos (15 bp every 3 bp), position 1,000,000,000
+Writing 350179233 genomic positions to file /home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos/Corvus_brachyrhynchos.ref153positions ...
+done
+Running "/usr/local/bin/gmapindex" -d Corvus_brachyrhynchos -F "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -D "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -S
+Genome length is 1091312783
+Building suffix array
+SACA_K called with n = 1091312784, K = 5, level 0
+SACA_K called with n = 291693479, K = 0, level 1
+SACA_K called with n = 91625698, K = 0, level 2
+SACA_K called with n = 29740433, K = 0, level 3
+SACA_K called with n = 9669589, K = 0, level 4
+SACA_K called with n = 3140507, K = 0, level 5
+SACA_K called with n = 1021866, K = 0, level 6
+SACA_K called with n = 334564, K = 0, level 7
+For indexsize 12, occupied 16114888/16777216
+Optimal indexsize = 12
+Running "/usr/local/bin/gmapindex" -d Corvus_brachyrhynchos -F "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -D "/home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos" -L
+Building LCP array
+Computing rank 0
+Computing rank 100,000,000
+Computing rank 200,000,000
+Computing rank 300,000,000
+Computing rank 400,000,000
+Computing rank 500,000,000
+Computing rank 600,000,000
+Computing rank 700,000,000
+Computing rank 800,000,000
+Computing rank 900,000,000
+Computing rank 1,000,000,000
+Writing temporary file for rank...done
+Writing temporary file for permuted sarray...done
+Computing lcp index 0
+Computing lcp index 100,000,000
+Computing lcp index 200,000,000
+Computing lcp index 300,000,000
+Computing lcp index 400,000,000
+Computing lcp index 500,000,000
+Computing lcp index 600,000,000
+Computing lcp index 700,000,000
+Computing lcp index 800,000,000
+Computing lcp index 900,000,000
+Computing lcp index 1,000,000,000
+Found 32634813 exceptions
+Byte-coding: 1058677971 values < 255, 32634813 exceptions >= 255 (3.0%)
+Building DC array
+Computing DC array 0
+Computing DC array 100,000,000
+Computing DC array 200,000,000
+Computing DC array 300,000,000
+Computing DC array 400,000,000
+Computing DC array 500,000,000
+Computing DC array 600,000,000
+Computing DC array 700,000,000
+Computing DC array 800,000,000
+Computing DC array 900,000,000
+Computing DC array 1,000,000,000
+Building child array
+Computing child index 100,000,000
+Computing child index 200,000,000
+Computing child index 300,000,000
+Computing child index 400,000,000
+Computing child index 500,000,000
+Computing child index 600,000,000
+Computing child index 700,000,000
+Computing child index 800,000,000
+Computing child index 900,000,000
+Computing child index 1,000,000,000
+Byte-coding: 1087757728 values < 255, 3555056 exceptions >= 255 (0.3%)
+Writing file /home/burke/Documents/dls/crowRAD/stacks/gmapdb//Corvus_brachyrhynchos/Corvus_brachyrhynchos.salcpchilddc......................................................done
+burke@burke-X9DAL:~/Documents/dls/crowRAD/stacks/gmap_build$

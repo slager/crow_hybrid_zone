@@ -1,0 +1,398 @@
+Found 64 sample file(s).
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ca01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 1  -p 32 2>&1
+Identifying unique stacks; file   1 of  64 [ca01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ca02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 2  -p 32 2>&1
+Identifying unique stacks; file   2 of  64 [ca02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ca03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 3  -p 32 2>&1
+Identifying unique stacks; file   3 of  64 [ca03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ca04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 4  -p 32 2>&1
+Identifying unique stacks; file   4 of  64 [ca04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/cbc01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 5  -p 32 2>&1
+Identifying unique stacks; file   5 of  64 [cbc01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/cbc02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 6  -p 32 2>&1
+Identifying unique stacks; file   6 of  64 [cbc02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/cbc03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 7  -p 32 2>&1
+Identifying unique stacks; file   7 of  64 [cbc03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/cbc04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 8  -p 32 2>&1
+Identifying unique stacks; file   8 of  64 [cbc04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ewa01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 9  -p 32 2>&1
+Identifying unique stacks; file   9 of  64 [ewa01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ewa02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 10  -p 32 2>&1
+Identifying unique stacks; file  10 of  64 [ewa02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ewa03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 11  -p 32 2>&1
+Identifying unique stacks; file  11 of  64 [ewa03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ewa04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 12  -p 32 2>&1
+Identifying unique stacks; file  12 of  64 [ewa04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ewa05.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 13  -p 32 2>&1
+Identifying unique stacks; file  13 of  64 [ewa05]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ghc01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 14  -p 32 2>&1
+Identifying unique stacks; file  14 of  64 [ghc01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ghc02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 15  -p 32 2>&1
+Identifying unique stacks; file  15 of  64 [ghc02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ghc03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 16  -p 32 2>&1
+Identifying unique stacks; file  16 of  64 [ghc03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ghc04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 17  -p 32 2>&1
+Identifying unique stacks; file  17 of  64 [ghc04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/hmr01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 18  -p 32 2>&1
+Identifying unique stacks; file  18 of  64 [hmr01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/hmr02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 19  -p 32 2>&1
+Identifying unique stacks; file  19 of  64 [hmr02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/hmr03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 20  -p 32 2>&1
+Identifying unique stacks; file  20 of  64 [hmr03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/hmr04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 21  -p 32 2>&1
+Identifying unique stacks; file  21 of  64 [hmr04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/jun01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 22  -p 32 2>&1
+Identifying unique stacks; file  22 of  64 [jun01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/jun02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 23  -p 32 2>&1
+Identifying unique stacks; file  23 of  64 [jun02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/jun03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 24  -p 32 2>&1
+Identifying unique stacks; file  24 of  64 [jun03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/jun04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 25  -p 32 2>&1
+Identifying unique stacks; file  25 of  64 [jun04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/kit01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 26  -p 32 2>&1
+Identifying unique stacks; file  26 of  64 [kit01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/kit02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 27  -p 32 2>&1
+Identifying unique stacks; file  27 of  64 [kit02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/kit03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 28  -p 32 2>&1
+Identifying unique stacks; file  28 of  64 [kit03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/kit04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 29  -p 32 2>&1
+Identifying unique stacks; file  29 of  64 [kit04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/la01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 30  -p 32 2>&1
+Identifying unique stacks; file  30 of  64 [la01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/la02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 31  -p 32 2>&1
+Identifying unique stacks; file  31 of  64 [la02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/mi01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 32  -p 32 2>&1
+Identifying unique stacks; file  32 of  64 [mi01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/mi02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 33  -p 32 2>&1
+Identifying unique stacks; file  33 of  64 [mi02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nbc01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 34  -p 32 2>&1
+Identifying unique stacks; file  34 of  64 [nbc01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nbc02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 35  -p 32 2>&1
+Identifying unique stacks; file  35 of  64 [nbc02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nbc03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 36  -p 32 2>&1
+Identifying unique stacks; file  36 of  64 [nbc03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nbc04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 37  -p 32 2>&1
+Identifying unique stacks; file  37 of  64 [nbc04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/neah01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 38  -p 32 2>&1
+Identifying unique stacks; file  38 of  64 [neah01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/neah02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 39  -p 32 2>&1
+Identifying unique stacks; file  39 of  64 [neah02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/neah03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 40  -p 32 2>&1
+Identifying unique stacks; file  40 of  64 [neah03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/neah04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 41  -p 32 2>&1
+Identifying unique stacks; file  41 of  64 [neah04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nf01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 42  -p 32 2>&1
+Identifying unique stacks; file  42 of  64 [nf01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nvi01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 43  -p 32 2>&1
+Identifying unique stacks; file  43 of  64 [nvi01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nvi02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 44  -p 32 2>&1
+Identifying unique stacks; file  44 of  64 [nvi02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nvi03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 45  -p 32 2>&1
+Identifying unique stacks; file  45 of  64 [nvi03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nvi04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 46  -p 32 2>&1
+Identifying unique stacks; file  46 of  64 [nvi04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nynj01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 47  -p 32 2>&1
+Identifying unique stacks; file  47 of  64 [nynj01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nynj02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 48  -p 32 2>&1
+Identifying unique stacks; file  48 of  64 [nynj02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nynj03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 49  -p 32 2>&1
+Identifying unique stacks; file  49 of  64 [nynj03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nynj04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 50  -p 32 2>&1
+Identifying unique stacks; file  50 of  64 [nynj04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/rus01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 51  -p 32 2>&1
+Identifying unique stacks; file  51 of  64 [rus01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/rus02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 52  -p 32 2>&1
+Identifying unique stacks; file  52 of  64 [rus02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/sea01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 53  -p 32 2>&1
+Identifying unique stacks; file  53 of  64 [sea01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/sea02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 54  -p 32 2>&1
+Identifying unique stacks; file  54 of  64 [sea02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/sea03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 55  -p 32 2>&1
+Identifying unique stacks; file  55 of  64 [sea03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/sea04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 56  -p 32 2>&1
+Identifying unique stacks; file  56 of  64 [sea04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/vic01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 57  -p 32 2>&1
+Identifying unique stacks; file  57 of  64 [vic01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/vic02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 58  -p 32 2>&1
+Identifying unique stacks; file  58 of  64 [vic02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/vic03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 59  -p 32 2>&1
+Identifying unique stacks; file  59 of  64 [vic03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/vic04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 60  -p 32 2>&1
+Identifying unique stacks; file  60 of  64 [vic04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/yvr01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 61  -p 32 2>&1
+Identifying unique stacks; file  61 of  64 [yvr01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/yvr02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 62  -p 32 2>&1
+Identifying unique stacks; file  62 of  64 [yvr02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/yvr03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 63  -p 32 2>&1
+Identifying unique stacks; file  63 of  64 [yvr03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/yvr04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -i 64  -p 32 2>&1
+Identifying unique stacks; file  64 of  64 [yvr04]
+
+Depths of Coverage for Processed Samples:
+ca01: 109.215x
+ca02: 103.152x
+ca03: 101.542x
+ca04: 139.542x
+cbc01: 129.257x
+cbc02: 151.664x
+cbc03: 158.649x
+cbc04: 114.694x
+ewa01: 64.4175x
+ewa02: 86.442x
+ewa03: 69.7272x
+ewa04: 75.782x
+ewa05: 87.0903x
+ghc01: 96.8723x
+ghc02: 108.369x
+ghc03: 119.527x
+ghc04: 146.28x
+hmr01: 112.398x
+hmr02: 128.303x
+hmr03: 133.324x
+hmr04: 187.441x
+jun01: 107.74x
+jun02: 134.227x
+jun03: 121.225x
+jun04: 137.207x
+kit01: 130.387x
+kit02: 140.14x
+kit03: 101.512x
+kit04: 102.935x
+la01: 85.2325x
+la02: 101.499x
+mi01: 99.9173x
+mi02: 73.5106x
+nbc01: 179.14x
+nbc02: 132.064x
+nbc03: 136.483x
+nbc04: 75.3122x
+neah01: 136.521x
+neah02: 151.152x
+neah03: 166.785x
+neah04: 155.782x
+nf01: 73.2364x
+nvi01: 127.565x
+nvi02: 117.441x
+nvi03: 124.466x
+nvi04: 129.139x
+nynj01: 79.7013x
+nynj02: 87.9658x
+nynj03: 32.5782x
+nynj04: 52.0532x
+rus01: 109.691x
+rus02: 104.325x
+sea01: 115.284x
+sea02: 140.41x
+sea03: 94.073x
+sea04: 123.168x
+vic01: 80.6629x
+vic02: 110.004x
+vic03: 130.402x
+vic04: 109.314x
+yvr01: 144.139x
+yvr02: 131.748x
+yvr03: 158.179x
+yvr04: 125.185x
+
+Generating catalog...
+  /usr/local/bin/cstacks -g -b 1 -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ca01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ca02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ca03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ca04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/cbc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/cbc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/cbc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/cbc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ewa01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ewa02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ewa03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ewa04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ewa05 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ghc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ghc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ghc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ghc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/hmr01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/hmr02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/hmr03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/hmr04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/jun01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/jun02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/jun03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/jun04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/kit01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/kit02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/kit03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/kit04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/la01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/la02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/mi01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/mi02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nbc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nbc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nbc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nbc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/neah01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/neah02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/neah03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/neah04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nf01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nvi01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nvi02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nvi03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nvi04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nynj01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nynj02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nynj03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nynj04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/rus01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/rus02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/sea01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/sea02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/sea03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/sea04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/vic01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/vic02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/vic03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/vic04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/yvr01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/yvr02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/yvr03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/yvr04  -p 32 2>&1
+Matching samples to the catalog...
+  /usr/local/bin/sstacks -g -b 1 -c /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/batch_1 -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ca01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ca02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ca03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ca04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/cbc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/cbc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/cbc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/cbc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ewa01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ewa02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ewa03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ewa04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ewa05 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ghc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ghc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ghc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/ghc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/hmr01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/hmr02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/hmr03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/hmr04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/jun01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/jun02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/jun03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/jun04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/kit01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/kit02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/kit03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/kit04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/la01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/la02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/mi01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/mi02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nbc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nbc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nbc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nbc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/neah01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/neah02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/neah03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/neah04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nf01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nvi01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nvi02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nvi03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nvi04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nynj01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nynj02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nynj03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/nynj04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/rus01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/rus02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/sea01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/sea02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/sea03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/sea04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/vic01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/vic02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/vic03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/vic04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/yvr01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/yvr02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/yvr03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5/yvr04  -p 32 2>&1
+Calculating population-level summary statistics
+/usr/local/bin/populations -b 1 -P /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s64.r0.05.maf0.02.het0.5 -s -t 32 -e sbfI -r 0.05 --min_maf 0.02  --max_obs_het 0.5  -k  --ordered_export --genomic  --structure   --hzar  --fstats --fasta --fasta_strict  --phylip   --phylip_var  --phylip_var_all  2>&1
+Found 62 sample file(s).
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ca01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 1  -p 32 2>&1
+Identifying unique stacks; file   1 of  62 [ca01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ca02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 2  -p 32 2>&1
+Identifying unique stacks; file   2 of  62 [ca02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ca03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 3  -p 32 2>&1
+Identifying unique stacks; file   3 of  62 [ca03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ca04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 4  -p 32 2>&1
+Identifying unique stacks; file   4 of  62 [ca04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/cbc01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 5  -p 32 2>&1
+Identifying unique stacks; file   5 of  62 [cbc01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/cbc02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 6  -p 32 2>&1
+Identifying unique stacks; file   6 of  62 [cbc02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/cbc03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 7  -p 32 2>&1
+Identifying unique stacks; file   7 of  62 [cbc03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/cbc04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 8  -p 32 2>&1
+Identifying unique stacks; file   8 of  62 [cbc04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ewa01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 9  -p 32 2>&1
+Identifying unique stacks; file   9 of  62 [ewa01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ewa02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 10  -p 32 2>&1
+Identifying unique stacks; file  10 of  62 [ewa02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ewa03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 11  -p 32 2>&1
+Identifying unique stacks; file  11 of  62 [ewa03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ewa04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 12  -p 32 2>&1
+Identifying unique stacks; file  12 of  62 [ewa04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ewa05.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 13  -p 32 2>&1
+Identifying unique stacks; file  13 of  62 [ewa05]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ghc01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 14  -p 32 2>&1
+Identifying unique stacks; file  14 of  62 [ghc01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ghc02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 15  -p 32 2>&1
+Identifying unique stacks; file  15 of  62 [ghc02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ghc03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 16  -p 32 2>&1
+Identifying unique stacks; file  16 of  62 [ghc03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/ghc04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 17  -p 32 2>&1
+Identifying unique stacks; file  17 of  62 [ghc04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/hmr01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 18  -p 32 2>&1
+Identifying unique stacks; file  18 of  62 [hmr01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/hmr02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 19  -p 32 2>&1
+Identifying unique stacks; file  19 of  62 [hmr02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/hmr03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 20  -p 32 2>&1
+Identifying unique stacks; file  20 of  62 [hmr03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/hmr04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 21  -p 32 2>&1
+Identifying unique stacks; file  21 of  62 [hmr04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/jun01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 22  -p 32 2>&1
+Identifying unique stacks; file  22 of  62 [jun01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/jun02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 23  -p 32 2>&1
+Identifying unique stacks; file  23 of  62 [jun02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/jun03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 24  -p 32 2>&1
+Identifying unique stacks; file  24 of  62 [jun03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/jun04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 25  -p 32 2>&1
+Identifying unique stacks; file  25 of  62 [jun04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/kit01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 26  -p 32 2>&1
+Identifying unique stacks; file  26 of  62 [kit01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/kit02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 27  -p 32 2>&1
+Identifying unique stacks; file  27 of  62 [kit02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/kit03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 28  -p 32 2>&1
+Identifying unique stacks; file  28 of  62 [kit03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/kit04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 29  -p 32 2>&1
+Identifying unique stacks; file  29 of  62 [kit04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/la01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 30  -p 32 2>&1
+Identifying unique stacks; file  30 of  62 [la01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/la02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 31  -p 32 2>&1
+Identifying unique stacks; file  31 of  62 [la02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/mi01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 32  -p 32 2>&1
+Identifying unique stacks; file  32 of  62 [mi01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/mi02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 33  -p 32 2>&1
+Identifying unique stacks; file  33 of  62 [mi02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nbc01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 34  -p 32 2>&1
+Identifying unique stacks; file  34 of  62 [nbc01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nbc02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 35  -p 32 2>&1
+Identifying unique stacks; file  35 of  62 [nbc02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nbc03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 36  -p 32 2>&1
+Identifying unique stacks; file  36 of  62 [nbc03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nbc04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 37  -p 32 2>&1
+Identifying unique stacks; file  37 of  62 [nbc04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/neah01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 38  -p 32 2>&1
+Identifying unique stacks; file  38 of  62 [neah01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/neah02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 39  -p 32 2>&1
+Identifying unique stacks; file  39 of  62 [neah02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/neah03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 40  -p 32 2>&1
+Identifying unique stacks; file  40 of  62 [neah03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/neah04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 41  -p 32 2>&1
+Identifying unique stacks; file  41 of  62 [neah04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nf01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 42  -p 32 2>&1
+Identifying unique stacks; file  42 of  62 [nf01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nvi01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 43  -p 32 2>&1
+Identifying unique stacks; file  43 of  62 [nvi01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nvi02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 44  -p 32 2>&1
+Identifying unique stacks; file  44 of  62 [nvi02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nvi03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 45  -p 32 2>&1
+Identifying unique stacks; file  45 of  62 [nvi03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nvi04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 46  -p 32 2>&1
+Identifying unique stacks; file  46 of  62 [nvi04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nynj01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 47  -p 32 2>&1
+Identifying unique stacks; file  47 of  62 [nynj01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nynj02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 48  -p 32 2>&1
+Identifying unique stacks; file  48 of  62 [nynj02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nynj03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 49  -p 32 2>&1
+Identifying unique stacks; file  49 of  62 [nynj03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/nynj04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 50  -p 32 2>&1
+Identifying unique stacks; file  50 of  62 [nynj04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/sea01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 51  -p 32 2>&1
+Identifying unique stacks; file  51 of  62 [sea01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/sea02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 52  -p 32 2>&1
+Identifying unique stacks; file  52 of  62 [sea02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/sea03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 53  -p 32 2>&1
+Identifying unique stacks; file  53 of  62 [sea03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/sea04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 54  -p 32 2>&1
+Identifying unique stacks; file  54 of  62 [sea04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/vic01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 55  -p 32 2>&1
+Identifying unique stacks; file  55 of  62 [vic01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/vic02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 56  -p 32 2>&1
+Identifying unique stacks; file  56 of  62 [vic02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/vic03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 57  -p 32 2>&1
+Identifying unique stacks; file  57 of  62 [vic03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/vic04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 58  -p 32 2>&1
+Identifying unique stacks; file  58 of  62 [vic04]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/yvr01.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 59  -p 32 2>&1
+Identifying unique stacks; file  59 of  62 [yvr01]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/yvr02.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 60  -p 32 2>&1
+Identifying unique stacks; file  60 of  62 [yvr02]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/yvr03.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 61  -p 32 2>&1
+Identifying unique stacks; file  61 of  62 [yvr03]
+  /usr/local/bin/pstacks -t bam -f /home/burke/Documents/dls/crowRAD/stacks/ref_align/Corvus_brachyrhynchos/bam/yvr04.bam -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -i 62  -p 32 2>&1
+Identifying unique stacks; file  62 of  62 [yvr04]
+
+Depths of Coverage for Processed Samples:
+ca01: 109.215x
+ca02: 103.152x
+ca03: 101.542x
+ca04: 139.542x
+cbc01: 129.257x
+cbc02: 151.664x
+cbc03: 158.649x
+cbc04: 114.694x
+ewa01: 64.4175x
+ewa02: 86.442x
+ewa03: 69.7272x
+ewa04: 75.782x
+ewa05: 87.0903x
+ghc01: 96.8723x
+ghc02: 108.369x
+ghc03: 119.527x
+ghc04: 146.28x
+hmr01: 112.398x
+hmr02: 128.303x
+hmr03: 133.324x
+hmr04: 187.441x
+jun01: 107.74x
+jun02: 134.227x
+jun03: 121.225x
+jun04: 137.207x
+kit01: 130.387x
+kit02: 140.14x
+kit03: 101.512x
+kit04: 102.935x
+la01: 85.2325x
+la02: 101.499x
+mi01: 99.9173x
+mi02: 73.5106x
+nbc01: 179.14x
+nbc02: 132.064x
+nbc03: 136.483x
+nbc04: 75.3122x
+neah01: 136.521x
+neah02: 151.152x
+neah03: 166.785x
+neah04: 155.782x
+nf01: 73.2364x
+nvi01: 127.565x
+nvi02: 117.441x
+nvi03: 124.466x
+nvi04: 129.139x
+nynj01: 79.7013x
+nynj02: 87.9658x
+nynj03: 32.5782x
+nynj04: 52.0532x
+sea01: 115.284x
+sea02: 140.41x
+sea03: 94.073x
+sea04: 123.168x
+vic01: 80.6629x
+vic02: 110.004x
+vic03: 130.402x
+vic04: 109.314x
+yvr01: 144.139x
+yvr02: 131.748x
+yvr03: 158.179x
+yvr04: 125.185x
+
+Generating catalog...
+  /usr/local/bin/cstacks -g -b 1 -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ca01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ca02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ca03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ca04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/cbc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/cbc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/cbc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/cbc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ewa01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ewa02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ewa03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ewa04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ewa05 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ghc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ghc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ghc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ghc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/hmr01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/hmr02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/hmr03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/hmr04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/jun01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/jun02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/jun03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/jun04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/kit01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/kit02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/kit03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/kit04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/la01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/la02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/mi01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/mi02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nbc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nbc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nbc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nbc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/neah01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/neah02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/neah03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/neah04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nf01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nvi01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nvi02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nvi03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nvi04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nynj01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nynj02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nynj03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nynj04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/sea01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/sea02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/sea03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/sea04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/vic01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/vic02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/vic03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/vic04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/yvr01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/yvr02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/yvr03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/yvr04  -p 32 2>&1
+Matching samples to the catalog...
+  /usr/local/bin/sstacks -g -b 1 -c /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/batch_1 -o /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ca01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ca02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ca03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ca04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/cbc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/cbc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/cbc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/cbc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ewa01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ewa02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ewa03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ewa04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ewa05 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ghc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ghc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ghc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/ghc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/hmr01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/hmr02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/hmr03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/hmr04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/jun01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/jun02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/jun03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/jun04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/kit01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/kit02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/kit03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/kit04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/la01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/la02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/mi01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/mi02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nbc01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nbc02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nbc03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nbc04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/neah01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/neah02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/neah03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/neah04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nf01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nvi01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nvi02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nvi03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nvi04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nynj01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nynj02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nynj03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/nynj04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/sea01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/sea02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/sea03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/sea04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/vic01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/vic02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/vic03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/vic04 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/yvr01 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/yvr02 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/yvr03 -s /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5/yvr04  -p 32 2>&1
+Calculating population-level summary statistics
+/usr/local/bin/populations -b 1 -P /home/burke/Documents/dls/crowRAD/stacks/output/Corvus_brachyrhynchos.s62.r0.05.maf0.02.het0.5 -s -t 32 -e sbfI -r 0.05 --min_maf 0.02  --max_obs_het 0.5  -k  --ordered_export --genomic  --structure   --hzar  --fstats --fasta --fasta_strict  --phylip   --phylip_var  --phylip_var_all  2>&1
