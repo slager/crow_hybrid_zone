@@ -195,7 +195,7 @@ parentalA_str <- s %>% filter(V1 %in% parentalA)
 
 #basic.stats(str_fstat)$perloc %>% write.csv("Fst_loci_parentals.csv")  ## Actually write this file, if running 1st time
 #basic.stats(str_fstat)$perloc$Fst %>% hist(breaks=(-2:20)/20,ylim=c(0,50))
-
+basic.stats(str_fstat)$overall ## To get overall FSt between parental populations as defined
 
 
 ##
