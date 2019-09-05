@@ -15,7 +15,18 @@ mydata <- hzar.doMolecularData1DPops(
 clineModel <- hzar.makeCline1DFreq(data=mydata,tails="none")
 clineModel <- hzar.model.addCenterRange(clineModel, 1000,6000)
 clineModel <- hzar.model.addMaxWidth(meta.model=clineModel,maxValue=7000)
-fitRequest <- hzar.first.fitRequest.old.ML(model=clineModel,obsData=mydata,verbose=T)  #Didn't work
+
+#Set initial pMin
+mydata$frame['hmr','obsFreq'] -> hzar.meta.init(clineModel)$pMin
+#Set initial pMax
+mydata$frame['ca','obsFreq'] -> hzar.meta.init(clineModel)$pMax
+
+hzar.meta.fix(clineModel)$pMin <- TRUE
+hzar.meta.fix(clineModel)$pMax <- TRUE
+
+fitRequest <- hzar.first.fitRequest.old.ML(model=clineModel,obsData=mydata,verbose=T)
+
+
 #fitRequest <- hzar.first.fitRequest.gC(gModel=clineModel,obsData=mydata,verbose=F)
 #fitRequest$mcmcParam$chainLength <- 1e6
 #fitRequest$mcmcParam$burnin <- 1e5
