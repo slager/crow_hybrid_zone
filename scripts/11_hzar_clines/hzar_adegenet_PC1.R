@@ -5,75 +5,64 @@
 library(adegenet)
 library(hzar)
 library(magrittr)
+library(plyr)
+library(dplyr)
 
-read.structure("Cb.s62.r0.05.maf0.02.het0.5.str.tsv.coastal.unlinked.nomd.str",
-               n.ind=48,n.loc=905,onerowperind=F,
-               col.lab=1,col.pop=0,col.others=0,
-               row.marknames=1,NA.char="0") -> str
+## Get Structure K=2 values
+df <- read.csv("parental define from Clumpp 0.98.csv",stringsAsFactors=F)
+# Set population names
+df$pop <- substr(df$id,1,nchar(df$id)-2)
+# Choose Pacific coastal populations
+df <- df %>%
+  filter(pop %in% c("ca","cbc","ghc","hmr","jun","kit","nbc","neah","nvi","sea","vic","yvr"))
+popids <- substr(df$id,1,nchar(df$id)-2)
 
-pop <- substr(rownames(str@tab),1,nchar(rownames(str@tab))-2)
-#names(pop) <- NULL
-str$pop <- as.factor(pop)
+
+df$A -> p
  
-# ## PCA Coastal only
- 
-sum(is.na(str$tab))
-X <- scaleGen(str,NA.method='mean')
-pca1 <- dudi.pca(X,cent=F,scale=F,scannf=F,nf=2)
-#barplot(pca1$eig[1:50],main="PCA eigenvalues", col=heat.colors(50))
-# # 
-## Extract PCA1 scores
-pca1$li$Axis1 -> p1
-# flip so that 0=AK 1=CA
--p1 -> p1
-p1
-#Convert to (0,1) range standardized NOW FOR POPULATION MEANS
-#Using linear transformation
-#round(.0232921*p1+.415035,4) -> p
-
-min0 =  -16.5497709  # mean of untransformed Homer -pc1
-minf =  0
-
-max0 =  20.4010785 #mean of untransformed ca -pc1
-maxf =  1
-
-a = (maxf-minf)/(max0-min0)
-b = maxf-a*max0
-
-p = a*p1+b
-
 ## Hybrid zone cline analysis
 
 ## Read distances for populations
 read.csv("crow_geo_COASTAL_distance.csv",header=T,stringsAsFactors=F) -> d
-## Population names
-gsub("[0-9]","",rownames(str@tab)) -> popids
-#unique(popids) -> popids
+
 ## Output vector of distances
 d$distance -> dists
+
 ## Get population means
 sapply(unique(popids),function(x){mean(p[which(popids %in% x)])},USE.NAMES=F) %>% round(4) -> means
-#unname(means) -> means
-#qqnorm(means)
+
 ## Get population variances
 sapply(unique(popids),function(x){var(p[which(popids %in% x)])},USE.NAMES=F) -> vars
-#unname(vars) -> vars
+
 ## Get population counts
 sapply(unique(popids),function(x){length(p[which(popids %in% x)])},USE.NAMES=F) -> counts
-#unname(counts) -> counts
+
+## Create data frame for input into Hzar
 data.frame(popids=unique(popids),dists,means,vars,counts) -> m
+
 
 mydata <- hzar.doNormalData1DPops(distance=dists,siteID=unique(popids),muObs=means,varObs=vars,nEff=counts)
 clineModel <- hzar.makeCline1DNormal(data=mydata,tails="none")
 clineModel <- hzar.model.addCenterRange(clineModel, 1000,6000)
 clineModel <- hzar.model.addMaxWidth(meta.model=clineModel,maxValue=7000)
-#fitRequest <- hzar.first.fitRequest.old.ML(obsData=mydata,model=clineModel,verbose=T)  #Didn't work
+
+#Set initial mus based on observed terminus populations
+mydata$frame['hmr','mu'] -> hzar.meta.init(clineModel)$muL
+#0 -> hzar.meta.init(clineModel)$muL
+mydata$frame['ca','mu'] -> hzar.meta.init(clineModel)$muR
+#1 -> hzar.meta.init(clineModel)$muR
+
+#Set initial variances based on observed terminus populations
+mydata$frame['hmr','var'] -> hzar.meta.init(clineModel)$varL
+mydata$frame['ca','var'] -> hzar.meta.init(clineModel)$varR
+
+# Fix endpoint mus
+hzar.meta.fix(clineModel)$muL <- TRUE
+hzar.meta.fix(clineModel)$muR <- TRUE
+
 fitRequest <- hzar.first.fitRequest.gC(gModel=clineModel,obsData=mydata,verbose=F)
-#fitRequest$mcmcParam$chainLength <- 1e6
-#fitRequest$mcmcParam$burnin <- 1e5
-#fitRequest$mcmcParam$verbosity <- 0
-#myfit <- hzar.doFit(fitRequest)
 myfitlist_pca1 <- hzar.chain.doSeq(hzar.request=fitRequest,count=3,collapse=F)
+
 
 '#CC3311' -> red
 '#0077BB' -> blue
@@ -89,7 +78,7 @@ mtDNA_colors <- rbPal(100)[as.numeric(cut(pops$mtDNA_A,breaks = 100))]
 
 pdf("cline_both2.pdf",5.5,5.5,useDingbats=F)
 par(mar=c(4.1,4.1,4.1,2.6))
-hzar.plot.cline(myfitlist_pca1[[3]],xlab="Pacific coastline (km)",ylab="Population value",xlim=c(0,7000),pch=NA)
+hzar.plot.cline(myfitlist_pca1[[3]],xlab="Pacific coastline (km)",ylab="Population value",xlim=c(0,7000),pch=NA,add=F)
 hzar.plot.cline(myfitlist_mtDNA[[3]],add=T,lty=2,pch=NA)
 # Get rid of line past points
 rect( max(dists), .95, 7100, 1.05, col='white', lty=0)
@@ -100,8 +89,10 @@ abline(v=c(3542,4864,5185,5656),lty=3,col='darkgray')
 mtext(at=c(1671,4203,5024,5420,6428),text=c('AK','BC','A','OR','CA'),side=1,line=-1,cex=0.8)
 mtext(at=c(5024),text=c('W'),side=1,line=-1.7,cex=0.8)
 #mtext(at=c(0,7000),text=c('AK','CA'),side=1,line=-1)
-legend(x=0,y=1.15,c("mtDNA fr(American)","Genomic mean PC1"),lty=c(2,1),pch=c(1,3),bg="white",cex=.9,bty="n")
+legend(x=0,y=1.1,c("mtDNA fr(American)","Genomic ancestry"),lty=c(2,1),pch=c(1,3),bg="white",cex=.9,bty="n")
 dev.off()
+
+#myfitlist_pca1[[3]]$mcmcRaw %>% tail
 
 # AK-BC  3542
 # BC-WA  4864
@@ -119,10 +110,10 @@ dev.off()
 hzar.fit2DataGroup(myfitlist_pca1[[3]]) -> fit3_pca1
 
 #PDF graph version
-pdf("pca1_cline_cred.pdf",6,6)
-hzar.plot.fzCline(fit3_pca1,xlab="Smoothed coastline distance in km (AK to CA)",ylab="adegenet PC1",main="hzar.plot.cline()")
+#pdf("pca1_cline_cred.pdf",6,6)
+#hzar.plot.fzCline(fit3_pca1,xlab="Smoothed coastline distance in km (AK to CA)",ylab="adegenet PC1",main="hzar.plot.cline()")
 #hzar.plot.cline(myfitlist_pca1[[3]],xlab="Smoothed coastline distance in km (AK to CA)",ylab="adegenet PC1",main="hzar.plot.cline()")
-dev.off()
+#dev.off()
 
 hzar.get.ML.cline(myfitlist_pca1[[3]])$param.all$width
 hzar.get.ML.cline(myfitlist_pca1[[3]])$param.all$center
