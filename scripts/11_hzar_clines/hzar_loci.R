@@ -104,7 +104,7 @@ for (i in names(loci)){
 
 ## Set boundaries for center and width parameters
 for (i in names(loci)){
-  loci[[i]]$models <- sapply(loci[[i]]$models,hzar.model.addBoxReq,0,7000,simplify=FALSE)
+  loci[[i]]$models <- sapply(loci[[i]]$models,hzar.model.addBoxReq,0,4000,simplify=FALSE)
 }
 
 Sys.time() ## Starting cluster processes
@@ -414,11 +414,16 @@ dev.off()
 ##ALL BLACK
 
 pdf("all.loci.black.pdf",6,6)
-hzar.plot.cline(loci[[1]]$analysis$model.selected,main="",type="n",ylab="SNP frequency",xlab="Pacific coastline (km)")
+hzar.plot.cline(loci[[1]]$analysis$model.selected,main="",type="n",ylab="SNP frequency",xlab="Pacific coastline distance (km)",xlim=c(0,4000))
 for (i in names(loci)){
   if (loci[[i]]$analysis$model.name == "nullModel") {next}
   hzar.plot.cline(loci[[i]]$analysis$model.selected,col=alpha(rgb(0,0,0), 0.5),pch=NA,add=T) #Just set pch=NA to not plot points, and add=T to plot multiple on one graph. Lines do successfully get darker when they overlap. Some clines go up and others go down.
 }
+abline(v=c(1843,2674,2916,3386),lty=3,col='darkgray')
+mtext(at=c(850,2259,2795,3151,3750),text=c('AK','BC','A','OR','CA'),side=1,line=-1,cex=0.8)
+mtext(at=c(2795),text=c('W'),side=1,line=-1.7,cex=0.8)
+mtext(at=0,text="North",side=1,line=2)
+mtext(at=4000,text="South",side=1,line=2)
 dev.off()
 ########
 #additional stuff
@@ -485,6 +490,8 @@ cline.data %>%
 
 cline.stats <- cline.data %>%
   filter(model != "nullModel")
+
+nrow(cline.stats)
 
 cline.stats$center2LLLow %>% median
 cline.stats$center %>% median

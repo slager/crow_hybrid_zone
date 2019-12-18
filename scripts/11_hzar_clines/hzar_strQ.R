@@ -43,8 +43,8 @@ data.frame(popids=unique(popids),dists,means,vars,counts) -> m
 
 mydata <- hzar.doNormalData1DPops(distance=dists,siteID=unique(popids),muObs=means,varObs=vars,nEff=counts)
 clineModel <- hzar.makeCline1DNormal(data=mydata,tails="none")
-clineModel <- hzar.model.addCenterRange(clineModel, 1000,6000)
-clineModel <- hzar.model.addMaxWidth(meta.model=clineModel,maxValue=7000)
+clineModel <- hzar.model.addCenterRange(clineModel, 500,3500)
+clineModel <- hzar.model.addMaxWidth(meta.model=clineModel,maxValue=3500)
 
 #Set initial mus based on observed terminus populations
 mydata$frame['hmr','mu'] -> hzar.meta.init(clineModel)$muL
@@ -78,33 +78,29 @@ mtDNA_colors <- rbPal(100)[as.numeric(cut(pops$mtDNA_A,breaks = 100))]
 
 pdf("cline_both2.pdf",5.5,5.5,useDingbats=F)
 par(mar=c(4.1,4.1,4.1,2.6))
-hzar.plot.cline(myfitlist_strQ[[3]],xlab="Pacific coastline (km)",ylab="Population value",xlim=c(0,7000),pch=NA,add=F)
+hzar.plot.cline(myfitlist_strQ[[3]],xlab="Pacific coastline distance (km)",ylab="Population value",xlim=c(0,4000),pch=NA,add=F)
 hzar.plot.cline(myfitlist_mtDNA[[3]],add=T,lty=2,pch=NA)
 # Get rid of line past points
-rect( max(dists), .95, 7100, 1.05, col='white', lty=0)
-rect( min(dists), -.05, -100, .05, col='white', lty=0)
+rect( max(dists), .95, 4050, 1.05, col='white', lty=0)
+rect( min(dists), -.05, -50, .05, col='white', lty=0)
 points(dists,means,pch=3,col=strQ_colors) #plot strQ data
 points(pops$dist,pops$mtDNA_A,pch=1,col=mtDNA_colors) #plot mtDNA data
-abline(v=c(3542,4864,5185,5656),lty=3,col='darkgray')
-mtext(at=c(1671,4203,5024,5420,6428),text=c('AK','BC','A','OR','CA'),side=1,line=-1,cex=0.8)
-mtext(at=c(5024),text=c('W'),side=1,line=-1.7,cex=0.8)
+abline(v=c(1843,2674,2916,3386),lty=3,col='darkgray')
+mtext(at=c(850,2259,2795,3151,3750),text=c('AK','BC','A','OR','CA'),side=1,line=-1,cex=0.8)
+mtext(at=c(2795),text=c('W'),side=1,line=-1.7,cex=0.8)
+mtext(at=0,text="North",side=1,line=2)
+mtext(at=4000,text="South",side=1,line=2)
 #mtext(at=c(0,7000),text=c('AK','CA'),side=1,line=-1)
 legend(x=0,y=1.1,c("mtDNA fr(American)","Genomic ancestry"),lty=c(2,1),pch=c(1,3),bg="white",cex=.9,bty="n")
 dev.off()
 
 #myfitlist_strQ[[3]]$mcmcRaw %>% tail
 
-# AK-BC  3542
-# BC-WA  4864
-# WA-OR  5185
-# OR-CA  5656
-# 
-# 1771 AK
-# 4203 BC
-# 5024 WA
-# 5420 OR
-# 6328 CA
-# =
+# AK-BC  1843
+# BC-WA  2674
+# WA-OR  2916
+# OR-CA  3386
+
 
 #Fit to data group to enable next steps
 hzar.fit2DataGroup(myfitlist_strQ[[3]]) -> fit3_strQ

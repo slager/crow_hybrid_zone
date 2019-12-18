@@ -1,6 +1,6 @@
 ## RUN THE TWO SCRIPTS IN THIS ORDER TO MAKE mtDNA nuDNA comparison GRAPH:
 # 1) hzar_mtDNA.R
-# 2) hzar_adegenet_PC1.R
+# 2) hzar_strQ.R
 
 library(hzar)
 
@@ -13,8 +13,8 @@ mydata <- hzar.doMolecularData1DPops(
   siteID=pops$pop)
 
 clineModel <- hzar.makeCline1DFreq(data=mydata,tails="none")
-clineModel <- hzar.model.addCenterRange(clineModel, 1000,6000)
-clineModel <- hzar.model.addMaxWidth(meta.model=clineModel,maxValue=7000)
+clineModel <- hzar.model.addCenterRange(clineModel, 500,3500)
+clineModel <- hzar.model.addMaxWidth(meta.model=clineModel,maxValue=3500)
 
 #Set initial pMin
 mydata$frame['hmr','obsFreq'] -> hzar.meta.init(clineModel)$pMin
