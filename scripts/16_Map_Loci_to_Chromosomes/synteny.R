@@ -138,6 +138,9 @@ SNP_chr %>% filter(!is.na(CHR)) %>%
   nrow # 206 unlinked SNPs on Z
 206/6492 # 3.17 percent unlinked Z chromosomes SNPs overall
   
+#Save as RDS file for SNP-based clines
+saveRDS(SNP_chr,"SNP_chr.RDS")
+
 merge(df_highfst,scaffold_map,by='SCAFFOLD') %>%
   filter(CHR == "chrZ") %>%
   nrow
@@ -147,7 +150,6 @@ matrix(c(206,6492,2,35),nrow=2) %>% chisq.test(correct=T,simulate.p.value=T)
 highfst_chr <- merge(df_highfst,scaffold_map,by='SCAFFOLD') # To get chromosomes for the ancestry-informative SNPs
 # Only 2/35, or 5.7%, of SNPs on the Z. Similar to proportion of Z in Zf genome (7.1%)
 write.csv(highfst_chr,"highfst_chr.csv")
-
 
 ## Get Zebra Finch chromosome info
 read.csv("ZebraFinch.csv",stringsAsFactors=F) -> zf
